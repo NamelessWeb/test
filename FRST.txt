@@ -1,0 +1,763 @@
+Scan result of Farbar Recovery Scan Tool (FRST) (x64) Version: 06-03-2025
+Ran by Thomas (administrator) on DESKTOP-SVBOKH0 (ASUS System Product Name) (06-03-2025 15:44:56)
+Running from C:\Users\Thomas\Downloads\FRST64.exe
+Loaded Profiles: Thomas
+Platform: Microsoft Windows 11 Pro Version 24H2 26100.3194 (X64) Language: Norsk bokmål (Norge)
+Default browser: Vivaldi
+Boot Mode: Normal
+
+==================== Processes (Whitelisted) =================
+
+(If an entry is included in the fixlist, the process will be closed. The file will not be moved.)
+
+(C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe ->) (ASUSTeK COMPUTER INC. -> ) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\SwAgent\ArmourySwAgent.exe
+(C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmouryHtmlDebugServer.exe
+(C:\Program Files (x86)\LightingService\LightingService.exe ->) (ASUSTeK COMPUTER INC. -> ) C:\Program Files\ASUS\AacAmbientHal\AacAmbientLighting.exe
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzAppManager
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzBTLEManager
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaConnectManager
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaConnectServer
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RZDEVICEMANAGER
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzDiagnostic
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzIoTDeviceManager
+(C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzSmartlightingDeviceManager
+(C:\Program Files (x86)\Steam\steam.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe <7>
+(C:\Program Files\ASUS\ARMOURY CRATE Lite Service\ArmouryCrate.Service.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files\ASUS\ARMOURY CRATE Lite Service\ArmouryCrate.UserSessionHelper.exe
+(C:\Program Files\Bitdefender Agent\ProductAgentService.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender Agent\27.1.1.11\DiscoverySrv.exe
+(C:\Program Files\Bitdefender\Bitdefender Security App\bdservicehost.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security App\bdagent.exe
+(C:\Program Files\Bitdefender\Bitdefender Security App\bdservicehost.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security App\seccenter.exe
+(C:\Program Files\Bitdefender\Bitdefender Security\bdservicehost.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security\bdntwrk.exe
+(C:\Program Files\Bitdefender\Bitdefender Security\bdservicehost.exe ->) (S.C. BITDEFENDER S.R.L. -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security\wsccommunicator.exe
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) () [File not signed] C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.barraider.spotify.sdPlugin\com.barraider.spotify.exe
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) () [File not signed] C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.barraider.windowsmover.sdPlugin\com.barraider.windowsmover.exe
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) () [File not signed] C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.barraider.wintools.sdPlugin\com.barraider.wintools.exe
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) (Corsair Memory, Inc. -> ) C:\Program Files\Elgato\StreamDeck\crashpad_handler.exe
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) (Corsair Memory, Inc. -> Corsair Memory, Inc.) C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.elgato.discord.sdPlugin\ESDDiscord.exe
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) (OpenJS Foundation -> Node.js) C:\Program Files\Elgato\StreamDeck\node\node20.exe <2>
+(C:\Program Files\Elgato\StreamDeck\StreamDeck.exe ->) (The Qt Company Oy -> The Qt Company Ltd.) C:\Program Files\Elgato\StreamDeck\QtWebEngineProcess.exe <3>
+(C:\Program Files\Elgato\Volume Controller\ElgatoAudioControlServerWatcher.exe ->) (Corsair Memory, Inc. -> ) C:\Program Files\Elgato\Volume Controller\ElgatoAudioControlServer.exe
+(C:\Program Files\Elgato\WaveLink\WaveLink.exe ->) (Corsair Memory, Inc. -> ) C:\Program Files\Elgato\WaveLink\crashpad_handler.exe
+(C:\Program Files\Microsoft PC Manager\MSPCManager.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files (x86)\Microsoft\EdgeWebView\Application\133.0.3065.92\msedgewebview2.exe <8>
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\PowerToys.AlwaysOnTop.exe
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\PowerToys.ColorPickerUI.exe
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\PowerToys.CropAndLock.exe
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\PowerToys.FancyZones.exe
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\PowerToys.PowerLauncher.exe
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\WinUI3Apps\PowerToys.AdvancedPaste.exe
+(C:\Program Files\PowerToys\PowerToys.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\WinUI3Apps\PowerToys.Peek.UI.exe
+(C:\Program Files\Razer\RazerAppEngine\app-4.0.433\RazerAppEngine.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files\Razer\RazerAppEngine\app-4.0.433\CommonDLL\RzEngineMon.exe
+(C:\Riot Games\Riot Client\RiotClientServices.exe ->) () [File not signed] C:\Riot Games\Riot Client\RiotClientCrashHandler.exe
+(C:\Windows\ImmersiveControlPanel\SystemSettings.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\SystemSettingsAdminFlows.exe
+(C:\Windows\SysWOW64\wallpaperservice32.exe ->) (Skutta Software GmbH -> ) C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\wallpaper64.exe
+(Discord Inc. -> Discord Inc.) C:\Users\Thomas\AppData\Local\Discord\app-1.0.9185\Discord.exe <6>
+(DriverStore\FileRepository\u0405277.inf_amd64_00f6bd87014da3b2\B404941\atiesrxx.exe ->) (Microsoft Windows Hardware Compatibility Publisher -> AMD) C:\Windows\System32\DriverStore\FileRepository\u0405277.inf_amd64_00f6bd87014da3b2\B404941\atieclxx.exe
+(explorer.exe ->) (Corsair Memory, Inc. -> ) C:\Program Files\Elgato\Volume Controller\ElgatoAudioControlServerWatcher.exe
+(explorer.exe ->) (Corsair Memory, Inc. -> ) C:\Program Files\Elgato\WaveLink\WaveLinkSE.exe
+(explorer.exe ->) (Corsair Memory, Inc. -> Corsair Memory, Inc.) C:\Program Files\Elgato\StreamDeck\StreamDeck.exe
+(explorer.exe ->) (Corsair Memory, Inc. -> Corsair Memory, Inc.) C:\Program Files\Elgato\WaveLink\WaveLink.exe
+(explorer.exe ->) (Focusrite Audio Engineering Ltd -> Focusrite Audio Engineering, Ltd.) C:\Program Files\Focusrite\Drivers\Focusrite Notifier.exe
+(explorer.exe ->) (Microsoft Corporation -> MSPCManager) C:\Program Files\Microsoft PC Manager\MSPCManager.exe
+(explorer.exe ->) (Riot Games, Inc. -> Riot Games, Inc.) C:\Program Files\Riot Vanguard\vgtray.exe
+(explorer.exe ->) (Riot Games, Inc. -> Riot Games, Inc.) C:\Riot Games\Riot Client\RiotClientServices.exe
+(explorer.exe ->) (Spotify AB -> Spotify Ltd) C:\Users\Thomas\AppData\Roaming\Spotify\Spotify.exe <8>
+(explorer.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Steam\steam.exe
+(explorer.exe ->) (Vivaldi Technologies AS -> Vivaldi Technologies AS) C:\Users\Thomas\AppData\Local\Vivaldi\Application\vivaldi.exe <26>
+(Kilonova LLC -> Skillbrains) C:\Program Files (x86)\Skillbrains\lightshot\5.5.0.7\Lightshot.exe
+(Razer USA Ltd. -> Razer Inc.) C:\Program Files\Razer\RazerAppEngine\app-4.0.433\RazerAppEngine.exe <10>
+(services.exe ->) (Advanced Micro Devices -> Advanced Micro Devices, Inc) C:\Windows\System32\DriverStore\FileRepository\amdppkg.inf_amd64_299f17ebe11dc358\AmdPpkgSvc.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUS Inc.) C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> Asustek Computer Inc.) C:\Program Files (x86)\ASUS\AsusCertService\AsusCertService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.) C:\Program Files (x86)\ASUS\AsusFanControlService\2.03.45\AsusFanControlService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.) C:\Program Files (x86)\ASUS\AXSP\4.03.21\atkexComSvc.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTek Computer Inc.) C:\Program Files (x86)\LightingService\LightingService.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files\ASUS\ARMOURY CRATE Lite Service\ArmouryCrate.Service.exe
+(services.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.) C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender Agent\ProductAgentService.exe
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender Agent\redline\bdredline.exe
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security App\bdservicehost.exe
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security App\Safepay\bdservicehost.exe
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security\bdservicehost.exe <3>
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Bitdefender\Bitdefender Security\updatesrv.exe
+(services.exe ->) (Bitdefender SRL -> Bitdefender) C:\Program Files\Common Files\Bitdefender\SetupInformation\Bitdefender RedLine\bdredline.exe
+(services.exe ->) (Corsair Memory, Inc. -> ) C:\Program Files\Elgato\WaveLink\ElgatoLLMService.exe
+(services.exe ->) (DTS, Inc. -> DTS Inc.) C:\Windows\System32\DTS\PC\APO4x\DtsApo4Service.exe
+(services.exe ->) (Focusrite Audio Engineering Ltd.) [File not signed] C:\Program Files\Focusrite\Focusrite Control\Server\ControlServer.exe
+(services.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\WSL\wslservice.exe
+(services.exe ->) (Microsoft Corporation -> MSPCManagerService) C:\Program Files\Microsoft PC Manager\MSPCManagerService.exe
+(services.exe ->) (Microsoft Windows Hardware Compatibility Publisher -> Advanced Micro Devices, Inc.) C:\Windows\System32\DriverStore\FileRepository\amdfendr.inf_amd64_987f8cede005f427\amdfendrsr.exe
+(services.exe ->) (Microsoft Windows Hardware Compatibility Publisher -> AMD) C:\Windows\System32\DriverStore\FileRepository\u0405277.inf_amd64_00f6bd87014da3b2\B404941\atiesrxx.exe
+(services.exe ->) (Microsoft Windows Hardware Compatibility Publisher -> Realtek Semiconductor Corp.) C:\Windows\RtkBtManServ.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpDefenderCoreService.exe
+(services.exe ->) (Microsoft Windows Publisher -> Microsoft Corporation) C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MsMpEng.exe
+(services.exe ->) (NVIDIA Corporation -> NVIDIA Corporation) C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe <3>
+(services.exe ->) (NVIDIA Corporation -> NVIDIA Corporation) C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_521f36110c1a672d\Display.NvContainer\NVDisplay.Container.exe <2>
+(services.exe ->) (Razer USA Ltd. ->  Go Touch VR SAS, a Razer company.) C:\Program Files (x86)\Interhaptics\HapticService\HapticService.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc) C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc) C:\Program Files\Razer\razer_elevation_service\razer_elevation_service.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaStreamServer.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe
+(services.exe ->) (Razer USA Ltd. -> Razer Inc.) C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe
+(services.exe ->) (Realtek Semiconductor Corp. -> Realtek Semiconductor) C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_cfe2ca03fab15f4c\RtkAudUService64.exe <2>
+(services.exe ->) (Skutta Software GmbH -> ) C:\Windows\SysWOW64\wallpaperservice32.exe
+(services.exe ->) (Surfshark B.V. -> Surfshark.Service) C:\Program Files\Surfshark\Surfshark.Service.exe
+(services.exe ->) (Tailscale Inc. -> Tailscale Inc.) C:\Program Files\Tailscale\tailscaled.exe <2>
+(services.exe ->) (TeamViewer Germany GmbH -> TeamViewer Germany GmbH) C:\Program Files\TeamViewer\TeamViewer_Service.exe
+(services.exe ->) (Valve Corp. -> Valve Corporation) C:\Program Files (x86)\Common Files\Steam\steamservice.exe
+(sihost.exe ->) (04797BBC-C7BB-462F-9B66-331C81E27C0E -> TranslucentTB Open Source Developers) C:\Program Files\WindowsApps\28017CharlesMilette.TranslucentTB_2024.3.0.0_x64__v826wp6bftszj\TranslucentTB.exe
+(sihost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25012.50.0_x64__cw5n1h2txyewy\CrossDeviceService.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ) C:\Program Files\ASUS\KINGSTON_Aac_DRAM\AacKingstonDramHal_x64.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ) C:\Program Files\ASUS\KINGSTON_Aac_DRAM\AacKingstonDramHal_x86.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUS) C:\Program Files (x86)\ASUS\ArmouryDevice\dll\MBLedSDK\NoiseCancelingEngine.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTek Compputer Inc.) C:\Program Files\ASUS\AacMB\Aac3572MbHal_x86.exe <2>
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.) C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe <9>
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.) C:\Program Files\ASUS\ASUS_Aac_DRAM\Aac3572DramHal_x86.exe
+(svchost.exe ->) (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.) C:\Program Files\ASUS\AacExtCard\extensionCardHal_x86.exe
+(svchost.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\PowerToys\PowerToys.exe
+(svchost.exe ->) (Microsoft Corporation -> Microsoft Corporation) C:\Program Files\WindowsApps\Microsoft.SecHealthUI_1000.27703.1006.0_x64__8wekyb3d8bbwe\SecHealthUI.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\dllhost.exe <3>
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\NgcIso.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\SecurityHealth\10.0.27703.1006-0\SecurityHealthHost.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\System32\smartscreen.exe
+(svchost.exe ->) (Microsoft Windows -> Microsoft Corporation) C:\Windows\SystemApps\Microsoft.Windows.AppRep.ChxApp_cw5n1h2txyewy\CHXSmartScreen.exe
+(svchost.exe ->) (Rémi Mercier) [File not signed] C:\Program Files (x86)\FanControl\FanControl.exe
+
+==================== Registry (Whitelisted) ===================
+
+(If an entry is included in the fixlist, the registry item will be restored to default or removed. The file will not be moved.)
+
+HKLM\...\Run: [Stream Deck] => C:\Program Files\Elgato\StreamDeck\StreamDeck.exe [22485416 2024-12-05] (Corsair Memory, Inc. -> Corsair Memory, Inc.)
+HKLM\...\Run: [Focusrite Notifier] => C:\Program Files\Focusrite\Drivers\Focusrite Notifier.exe [767552 2022-05-20] (Focusrite Audio Engineering Ltd -> Focusrite Audio Engineering, Ltd.)
+HKLM\...\Run: [Riot Vanguard] => C:\Program Files\Riot Vanguard\vgtray.exe [4131496 2024-12-20] (Riot Games, Inc. -> Riot Games, Inc.)
+HKLM\...\Run: [WindowsMasterUI] => C:\Program Files\Microsoft PC Manager\MSPCManager.exe [952352 2023-11-27] (Microsoft Corporation -> MSPCManager)
+HKLM\...\Run: [RtkAudUService] => C:\WINDOWS\System32\DriverStore\FileRepository\realtekservice.inf_amd64_cfe2ca03fab15f4c\RtkAudUService64.exe [2361296 2025-02-20] (Realtek Semiconductor Corp. -> Realtek Semiconductor)
+HKLM\...\Run: [Bdagent] => C:\Program Files\Bitdefender\Bitdefender Security App\bdagent.exe [1088224 2025-01-23] (Bitdefender SRL -> Bitdefender)
+HKLM-x32\...\Run: [Discord] => C:\ProgramData\SquirrelMachineInstalls\Discord.exe [113999224 2025-01-30] (Discord Inc. -> Discord Inc.)
+HKLM-x32\...\Run: [Lightshot] => C:\Program Files (x86)\Skillbrains\lightshot\Lightshot.exe [226728 2019-07-21] (Kilonova LLC -> )
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [MicrosoftEdgeAutoLaunch_ACDE7569BB2BA61E559D6A3A787F9FA6] => "C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" --no-startup-window --win-session-start [4088392 2025-02-27] (Microsoft Corporation -> Microsoft Corporation)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [RiotClient] => C:\Riot Games\Riot Client\RiotClientServices.exe [74678168 2025-03-03] (Riot Games, Inc. -> Riot Games, Inc.)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Volume Controller SD plugin] => C:\Program Files\Elgato\Volume Controller\ElgatoAudioControlServerWatcher.exe [108072 2023-09-18] (Corsair Memory, Inc. -> )
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Discord] => C:\Users\Thomas\AppData\Local\Discord\Update.exe [1516408 2025-01-27] (Discord Inc. -> Discord Inc.)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Overwolf] => C:\Program Files (x86)\Overwolf\OverwolfLauncher.exe [1848064 2025-02-17] (Overwolf Ltd -> Overwolf Ltd.)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Surfshark] => C:\Program Files\Surfshark\Surfshark.exe [258752 2025-01-07] (Surfshark B.V. -> Surfshark)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [WingetUI] => C:\Program Files\UniGetUI\UniGetUI.exe [726672 2024-12-21] (Marti Climent Lopez -> )
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Spotify] => C:\Users\Thomas\AppData\Roaming\Spotify\Spotify.exe [36483400 2025-02-27] (Spotify AB -> Spotify Ltd)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Docker Desktop] => C:\Program Files\Docker\Docker\Docker Desktop.exe [4097392 2025-01-30] (Docker Inc -> Docker Inc.)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [WaveLinkSE] => C:\Program Files\Elgato\WaveLink\WaveLinkSE.exe [277896 2025-01-28] (Corsair Memory, Inc. -> )
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Steam] => C:\Program Files (x86)\Steam\steam.exe [4435552 2025-01-28] (Valve Corp. -> Valve Corporation)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [RazerAppEngine] => C:\Program Files\Razer\RazerAppEngine\RazerAppEngine.exe [760072 2025-01-28] (Razer USA Ltd. -> Razer Inc.)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Run: [Wave Link] => C:\Program Files\Elgato\WaveLink\WaveLink.exe [27574656 2025-01-28] (Corsair Memory, Inc. -> Corsair Memory, Inc.)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1002\...\RunOnce: [UninstallCopilot] => powershell.exe -NoProfile -Command "Get-AppxPackage -Name 'Microsoft.Windows.Ai.Copilot.Provider' | Remove-AppxPackage;" (No File)
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1002\...\RunOnce: [ClassicContextMenu] => reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /ve /f (No File) <==== ATTENTION
+Startup: C:\Users\Thomas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Ollama.lnk [2025-01-30]
+ShortcutTarget: Ollama.lnk -> C:\Users\Thomas\AppData\Local\Programs\Ollama\ollama app.exe (Ollama Inc. -> )
+Startup: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup\Tailscale.lnk [2025-01-30]
+ShortcutTarget: Tailscale.lnk -> C:\Program Files\Tailscale\tailscale-ipn.exe (Tailscale Inc. -> Tailscale Inc.)
+
+==================== Scheduled Tasks (Whitelisted) =================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+Task: {324C7ED1-E721-46B4-99CA-52BCE3E217C4} - System32\Tasks\AMDAutoUpdate => C:\Program Files\AMD\AutoUpdate\AMDAutoUpdate.exe [671440 2024-07-24] (Advanced Micro Devices -> )
+Task: {B1C60F83-12EF-4D6F-A7AE-25F014216082} - System32\Tasks\ASUS\AcPowerNotification => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\AcPowerNotification\AcPowerNotification.exe [398176 2024-12-18] (ASUSTeK COMPUTER INC. -> ASUS)
+Task: {946E054E-2FA7-4634-974E-ADE97C091707} - System32\Tasks\ASUS\ArmourySocketServer => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ArmourySocketServer\ArmourySocketServer.exe [1772888 2024-12-18] (ASUSTeK COMPUTER INC. -> ASUS)
+Task: {2D50805E-60C7-4D90-9F3E-DAE774266551} - System32\Tasks\ASUS\ASUSUpdateTaskMachineCore => C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [249192 2025-02-23] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+Task: {AD41DCBC-D413-4E6B-BDFB-3756F44B8714} - System32\Tasks\ASUS\ASUSUpdateTaskMachineUA => C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [249192 2025-02-23] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+Task: {6548F582-CEF5-4000-8E44-001256C559B2} - System32\Tasks\ASUS\Framework Service => C:\Program Files (x86)\ASUS\ArmouryDevice\asus_framework.exe [152109928 2024-08-13] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+Task: {3DD73756-906E-4B5B-90B7-AFF812D80C62} - System32\Tasks\ASUS\NoiseCancelingEngine => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\MBLedSDK\NoiseCancelingEngine.exe [1261928 2024-04-09] (ASUSTeK COMPUTER INC. -> ASUS)
+Task: {7C5A4162-928E-4E21-8A72-3845421D6D04} - System32\Tasks\ASUS\P508PowerAgent_sdk => C:\Program Files (x86)\ASUS\ArmouryDevice\dll\ShareFromArmouryIII\Mouse\ROG STRIX CARRY\P508PowerAgent.exe  (No File)
+Task: {AF338080-F63C-4D8F-8C71-3AED0B3939BF} - System32\Tasks\Bitdefender Agent WatchDog_65D6944A0EF74FDAB96E31112AD39864 => C:\Program Files\Bitdefender Agent\27.1.1.11\WatchDog.exe [1156400 2025-02-04] (Bitdefender SRL -> Bitdefender) -> C:\Program Files\Bitdefender Agent\27.1.1.11\repair
+Task: {920B7B8B-45FF-4025-B897-B6F6AF53704E} - System32\Tasks\FanControl => C:\Program Files (x86)\FanControl\\FanControl.exe [311808 2025-02-18] (Rémi Mercier) [File not signed]
+Task: {08D72043-5608-4EE2-BD84-2895E1CA9300} - System32\Tasks\GPU Tweak III => C:\Program Files (x86)\ASUS\GPUTweakIII\GPU Tweak III.exe  (No File)
+Task: {F3E6E7ED-A196-4E44-8803-55FAB3AD4E29} - System32\Tasks\Microsoft\Windows\UpdateOrchestrator\USO_UxBroker => %systemroot%\system32\MusNotification.exe  (No File)
+Task: {46A261F8-47DA-444B-949F-691DA1675F52} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cache Maintenance => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpCmdRun.exe [1732816 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {4050F376-40D1-4C07-9177-4A29EFE7863F} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Cleanup => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpCmdRun.exe [1732816 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {BDD10824-6E6A-4277-BB55-D66DF66E3BB0} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Scheduled Scan => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpCmdRun.exe [1732816 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {5E173B78-2902-4CCD-B9EC-7F5C15776D29} - System32\Tasks\Microsoft\Windows\Windows Defender\Windows Defender Verification => C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpCmdRun.exe [1732816 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+Task: {740E89DB-6C30-40AA-BB3F-57AE9D58165F} - System32\Tasks\NVIDIA app SelfUpdate_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8} => C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA app.exe [3287072 2025-02-19] (NVIDIA Corporation -> NVIDIA Corporation)
+Task: {517CF6C9-BA8A-41B1-907B-AAD581C5B7BF} - System32\Tasks\Overwolf Updater Task => C:\Program Files (x86)\Common Files\Overwolf\OverwolfUpdater.exe [2397440 2025-02-17] (Overwolf Ltd -> Overwolf LTD) -> C:\Program Files (x86)\Overwolf\/RunningFrom Schedule
+Task: {7F03A836-57B6-45D9-866C-2F9447337394} - System32\Tasks\PowerToys\Autorun for Thomas => C:\Program Files\PowerToys\PowerToys.exe [1231904 2025-01-24] (Microsoft Corporation -> Microsoft Corporation)
+Task: {069CC5EF-29F9-48DD-92A5-E6E51AF3EBB5} - System32\Tasks\update-S-1-5-21-1380129379-2595566839-1166586904-1000 => C:\Program Files (x86)\Skillbrains\Updater\Updater.exe [414872 2017-04-12] (OOO Lightshot -> TODO: <Company name>)
+Task: {EF87BB18-55D4-4F7F-82F2-2EEECA145BF9} - System32\Tasks\update-sys => C:\Program Files (x86)\Skillbrains\Updater\Updater.exe [414872 2017-04-12] (OOO Lightshot -> TODO: <Company name>)
+Task: {25E95132-036D-4B70-8A5F-83D12BF17F0D} - System32\Tasks\VivaldiUpdateCheck-7797a61fa157a7cf => C:\Users\Thomas\AppData\Local\Vivaldi\Application\update_notifier.exe [3814024 2025-02-26] (Vivaldi Technologies AS -> Vivaldi Technologies AS) -> C:\Users\Thomas\AppData\Local\Vivaldi\Application\--from-scheduler
+Task: {025E0C58-22F1-4BDD-9096-30EC3C0AFC97} - System32\Tasks\WindowsUpdateService => C:\Windows\nircmd.exe [46080 2025-03-06] (NirSoft) [File not signed] -> exec2 hide C:\WINDOWS "C:\WINDOWS\windows.bat"
+
+(If an entry is included in the fixlist, the task (.job) file will be moved. The file which is running by the task will not be moved.)
+
+Task: C:\WINDOWS\Tasks\update-S-1-5-21-1380129379-2595566839-1166586904-1000.job => C:\Program Files (x86)\Skillbrains\Updater\Updater.exe
+Task: C:\WINDOWS\Tasks\update-sys.job => C:\Program Files (x86)\Skillbrains\Updater\Updater.exe
+
+==================== Internet (Whitelisted) ====================
+
+(If an item is included in the fixlist, if it is a registry item it will be removed or restored to default.)
+
+Hosts: 127.0.0.1 kubernetes.docker.internal
+Tcpip\..\Interfaces\{ce730ced-975f-454b-84c3-617c132c603a}: [DhcpNameServer] 192.168.50.1
+
+Edge: 
+=======
+Edge Profile: C:\Users\Thomas\AppData\Local\Microsoft\Edge\User Data\Default [2025-03-06]
+Edge Extension: (Google Docs Offline) - C:\Users\Thomas\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\ghbmnnjooekpmoecnnnilnnbdlolhkhi [2025-03-06]hxxps://clients2.google.com/service/update2/crx
+Edge Extension: (Edge relevant text changes) - C:\Users\Thomas\AppData\Local\Microsoft\Edge\User Data\Default\Extensions\jmjflgjpcpepeafmmgdpfkogkghcpiha [2025-01-30]hxxps://edge.microsoft.com/extensionwebstorebase/v1/crx
+
+FireFox:
+========
+FF Plugin: @videolan.org/vlc,version=3.0.21 -> C:\Program Files\VideoLAN\VLC\npvlc.dll [2024-06-08] (VideoLAN -> VideoLAN)
+
+Vivaldi: 
+=======
+VIV Profile: C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default [2025-03-06]
+VIV Notifications: Default -> hxxps://www.facebook.com
+VIV DefaultSearchKeyword: Default -> g
+VIV DefaultSuggestURL: Default -> hxxps://www.google.com/complete/search?client=chrome&q={searchTerms}
+VIV Extension: (Surfshark VPN Extension) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\ailoabdmgclmfmhdagmlohpjlbpffblp [2025-02-11]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (Adjust Page Brightness) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\bcjiagkgnilmcngacjlfhmpdmbhbjcah [2025-01-30]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (uBlock Origin) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\cjpalhdlnbpafiamejdnhcphjbkeiagm [2025-01-30]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (NordPass® Password Manager & Digital Vault) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\eiaeiblijfjekdanodkjadfinkhbfgcd [2025-02-21]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (Dark Reader) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\eimadpbcbfnmbkopoojfekhnkhdbieeh [2025-02-28]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (FrankerFaceZ) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\fadndhdgpmmaapbmfcknlfgcflmmmieb [2025-03-06]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (Picture-in-Picture Extension (by Google)) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\hkgfoiooedgoejojocmhlaklaeopbecg [2025-02-13]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (Volume Master) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\jghecgabfgfdldnmbfkhmffcabddioke [2025-01-30]hxxps://clients2.google.com/service/update2/crx
+VIV Extension: (CSFloat Market Checker) - C:\Users\Thomas\AppData\Local\Vivaldi\User Data\Default\Extensions\jjicbefpemnphinccgikpdaagjebbnhg [2025-02-22]hxxps://clients2.google.com/service/update2/crx
+
+==================== Services (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+S2 amd3dvcacheSvc; C:\WINDOWS\System32\DriverStore\FileRepository\amd3dvcache.inf_amd64_3d934b68d0441314\amd3dvcacheSvc.exe [179272 2024-12-20] (Microsoft Windows Hardware Compatibility Publisher -> Advanced Micro Devices, Inc)
+S2 AmdAppCompatSvc; C:\WINDOWS\System32\DriverStore\FileRepository\amdappcompat.inf_amd64_0cfc8ba812cdbaa8\AmdAppCompatSvc.exe [300872 2025-01-02] (Advanced Micro Devices -> Advanced Micro Devices, Inc)
+R2 AmdPpkgSvc; C:\WINDOWS\System32\DriverStore\FileRepository\amdppkg.inf_amd64_299f17ebe11dc358\AmdPpkgSvc.exe [518944 2025-01-01] (Advanced Micro Devices -> Advanced Micro Devices, Inc)
+R2 ArmouryCrateService; C:\Program Files\ASUS\ARMOURY CRATE Lite Service\ArmouryCrate.Service.exe [404440 2025-02-20] (ASUSTeK COMPUTER INC. -> ASUSTeK COMPUTER INC.)
+R2 asComSvc; C:\Program Files (x86)\ASUS\AXSP\4.03.21\atkexComSvc.exe [939880 2024-10-22] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+S2 asus; C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [249192 2025-02-23] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+R2 AsusCertService; C:\Program Files (x86)\ASUS\AsusCertService\AsusCertService.exe [503144 2024-09-25] (ASUSTeK COMPUTER INC. -> Asustek Computer Inc.)
+R2 AsusFanControlService; C:\Program Files (x86)\ASUS\AsusFanControlService\2.03.45\AsusFanControlService.exe [1858400 2024-10-22] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+S3 asusm; C:\Program Files (x86)\ASUS\Update\AsusUpdate.exe [249192 2025-02-23] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+S2 AsusROGLSLService; C:\Program Files (x86)\ASUS\AsusROGLSLService\AsusROGLSLService.exe [681832 2025-02-23] (ASUSTeK COMPUTER INC. -> ASUS)
+S2 AsusUpdateCheck; C:\WINDOWS\System32\AsusUpdateCheck.exe [845256 2025-03-06] (ASUSTeK Computer Inc. -> )
+R2 BDAppSrv; C:\Program Files\Bitdefender\Bitdefender Security App\bdservicehost.exe [851640 2025-01-23] (Bitdefender SRL -> Bitdefender)
+R2 BDAuxSrv; C:\Program Files\Bitdefender\Bitdefender Security\bdservicehost.exe [852152 2025-02-21] (Bitdefender SRL -> Bitdefender)
+R2 BDProtSrv; C:\Program Files\Bitdefender\Bitdefender Security\bdservicehost.exe [852152 2025-02-21] (Bitdefender SRL -> Bitdefender)
+R2 bdredline; C:\Program Files\Common Files\Bitdefender\SetupInformation\Bitdefender RedLine\bdredline.exe [2966176 2023-07-20] (Bitdefender SRL -> Bitdefender)
+R2 bdredline_agent; C:\Program Files\Bitdefender Agent\redline\bdredline.exe [2577184 2023-07-20] (Bitdefender SRL -> Bitdefender)
+R2 BDSafepaySrv; C:\Program Files\Bitdefender\Bitdefender Security App\Safepay\bdservicehost.exe [852152 2025-02-21] (Bitdefender SRL -> Bitdefender)
+S3 com.docker.service; C:\Program Files\Docker\Docker\com.docker.service [38256 2025-01-30] (Docker Inc -> Docker Inc.)
+R2 DtsApo4Service; C:\WINDOWS\System32\DTS\PC\APO4x\DtsApo4Service.exe [456592 2025-02-20] (DTS, Inc. -> DTS Inc.)
+R2 ElgatoLLMService; C:\Program Files\Elgato\WaveLink\ElgatoLLMService.exe [644992 2025-01-28] (Corsair Memory, Inc. -> )
+R2 Focusrite Control Server; C:\Program Files\Focusrite\Focusrite Control\Server\ControlServer.exe [1449472 2022-05-26] (Focusrite Audio Engineering Ltd.) [File not signed]
+R2 GameSDK Service; C:\Program Files (x86)\ASUS\GameSDK Service\GameSDK.exe [397544 2022-05-31] (ASUSTeK COMPUTER INC. -> ASUS Inc.)
+R2 HapticService; C:\Program Files (x86)\Interhaptics\HapticService\HapticService.exe [485536 2025-02-07] (Razer USA Ltd. ->  Go Touch VR SAS, a Razer company.)
+R2 LightingService; C:\Program Files (x86)\LightingService\LightingService.exe [4955496 2024-08-08] (ASUSTeK COMPUTER INC. -> ASUSTek Computer Inc.)
+S3 MBAMService; C:\Program Files\Malwarebytes\Anti-Malware\MBAMService.exe [9483456 2025-03-06] (Malwarebytes Inc. -> Malwarebytes)
+S3 MBVpnTunnelService; C:\Program Files\Malwarebytes\Anti-Malware\MBVpnTunnelService.exe [2788304 2025-03-06] (Malwarebytes Inc. -> Malwarebytes)
+R2 MDCoreSvc; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MpDefenderCoreService.exe [1926976 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 NVDisplay.ContainerLocalSystem; C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_521f36110c1a672d\Display.NvContainer\NVDisplay.Container.exe [1275528 2025-02-19] (NVIDIA Corporation -> NVIDIA Corporation)
+S3 OverwolfUpdater; C:\Program Files (x86)\Common Files\Overwolf\OverwolfUpdater.exe [2397440 2025-02-17] (Overwolf Ltd -> Overwolf LTD)
+R2 PCManager Service; C:\Program Files\Microsoft PC Manager\MSPCManagerService.exe [188336 2023-11-27] (Microsoft Corporation -> MSPCManagerService)
+R2 ProductAgentService; C:\Program Files\Bitdefender Agent\ProductAgentService.exe [750872 2025-02-04] (Bitdefender SRL -> Bitdefender)
+R2 Razer Chroma SDK Server; C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKServer.exe [1882536 2024-12-31] (Razer USA Ltd. -> Razer Inc.)
+R2 Razer Chroma SDK Service; C:\Program Files (x86)\Razer Chroma SDK\bin\RzSDKService.exe [232360 2024-12-31] (Razer USA Ltd. -> Razer Inc.)
+R2 Razer Chroma Stream Server; C:\Program Files (x86)\Razer Chroma SDK\bin\RzChromaStreamServer.exe [1268176 2024-07-18] (Razer USA Ltd. -> Razer Inc.)
+R3 Razer Elevation Service; C:\Program Files\Razer\razer_elevation_service\razer_elevation_service.exe [37620720 2025-01-28] (Razer USA Ltd. -> Razer Inc)
+R2 Razer Game Manager Service 3; C:\Program Files (x86)\Razer\Razer Services\GMS3\GameManagerService3.exe [362248 2024-06-27] (Razer USA Ltd. -> Razer Inc)
+S3 RedKard_Rooster; C:\ProgramData\RedKard\Splitgate 2\bin\anticheat.x64.redkard.exe [9194920 2025-02-27] (1047 Games, Inc. -> 1047 Games, Inc.)
+R2 ROG Live Service; C:\Program Files\ASUS\ROG Live Service\ROGLiveService.exe [2125352 2024-11-22] (ASUSTeK COMPUTER INC. -> ASUSTek COMPUTER INC.)
+S3 Sense; C:\Program Files\Windows Defender Advanced Threat Protection\MsSense.exe [559304 2025-01-30] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 Surfshark Service; C:\Program Files\Surfshark\Surfshark.Service.exe [150720 2025-01-07] (Surfshark B.V. -> Surfshark.Service)
+R2 Tailscale; C:\Program Files\Tailscale\tailscaled.exe [22168000 2025-01-30] (Tailscale Inc. -> Tailscale Inc.)
+R2 TeamViewer; C:\Program Files\TeamViewer\TeamViewer_Service.exe [21819184 2025-01-24] (TeamViewer Germany GmbH -> TeamViewer Germany GmbH)
+R2 UPDATESRV; C:\Program Files\Bitdefender\Bitdefender Security\updatesrv.exe [291224 2025-02-21] (Bitdefender SRL -> Bitdefender)
+S3 vgc; C:\Program Files\Riot Vanguard\vgc.exe [13081856 2024-12-20] (Riot Games, Inc. -> Riot Games, Inc.)
+R2 VSSERV; C:\Program Files\Bitdefender\Bitdefender Security\bdservicehost.exe [852152 2025-02-21] (Bitdefender SRL -> Bitdefender)
+R2 Wallpaper Engine Service; C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\wallpaper64.exe [4481464 2025-02-21] (Skutta Software GmbH -> )
+S3 WdNisSvc; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\NisSrv.exe [4352456 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+R2 WinDefend; C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.25010.11-0\MsMpEng.exe [270056 2025-03-06] (Microsoft Windows Publisher -> Microsoft Corporation)
+
+===================== Drivers (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+R1 Ahflt; C:\WINDOWS\System32\drivers\ahflt.sys [49704 2023-11-27] (Microsoft Corporation -> Microsoft Corporation)
+R3 amd3dvcache; C:\WINDOWS\System32\DriverStore\FileRepository\amd3dvcache.inf_amd64_3d934b68d0441314\amd3dvcache.sys [43296 2024-12-20] (Advanced Micro Devices -> Advanced Micro Devices, Inc)
+R3 AmdAppCompat; C:\WINDOWS\System32\DriverStore\FileRepository\amdappcompat.inf_amd64_0cfc8ba812cdbaa8\AmdAppCompat.sys [35144 2025-01-02] (Advanced Micro Devices -> Advanced Micro Devices)
+R3 amdfendrmgr; C:\WINDOWS\System32\DriverStore\FileRepository\amdfendr.inf_amd64_987f8cede005f427\amdfendrmgr.sys [55456 2024-07-14] (Microsoft Windows Hardware Compatibility Publisher -> Advanced Micro Devices, Inc.)
+R3 amdgpio3; C:\WINDOWS\System32\drivers\amdgpio3.sys [33592 2024-09-12] (ASMedia Technology Inc. -> Advanced Micro Devices, Inc)
+R3 AmdPpkg; C:\WINDOWS\System32\DriverStore\FileRepository\amdppkg.inf_amd64_299f17ebe11dc358\AmdPpkg.sys [35104 2025-01-01] (Advanced Micro Devices -> Advanced Micro Devices)
+R3 amduw23g; C:\WINDOWS\System32\DriverStore\FileRepository\u0405277.inf_amd64_00f6bd87014da3b2\B404941\amdkmdag.sys [106144848 2024-07-14] (Microsoft Windows Hardware Compatibility Publisher -> Advanced Micro Devices, Inc.)
+R1 Asusgio3; C:\WINDOWS\system32\drivers\AsIO3.sys [58936 2024-09-24] (ASUSTeK COMPUTER INC. -> Asustek Computer Inc.)
+R1 atc; C:\WINDOWS\System32\DRIVERS\atc.sys [7643696 2024-11-14] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender S.R.L. Bucharest, ROMANIA)
+R2 BdDci4; C:\WINDOWS\system32\DRIVERS\bddci4.sys [971312 2025-02-07] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender)
+S0 bdelam; C:\WINDOWS\System32\drivers\bdelam.sys [24568 2023-05-07] (Microsoft Windows Early Launch Anti-malware Publisher -> Bitdefender)
+S3 bdprivmon; C:\WINDOWS\system32\DRIVERS\bdprivmon.sys [49200 2023-08-09] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender SRL)
+S3 bduefiscan; C:\WINDOWS\system32\DRIVERS\bduefiscan.sys [42432 2024-07-02] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender)
+S3 cpuz158; C:\WINDOWS\temp\cpuz158\cpuz158_x64.sys [44592 2025-02-27] (Microsoft Windows Hardware Compatibility Publisher -> CPUID) <==== ATTENTION
+S3 cpuz159; C:\WINDOWS\temp\cpuz159\cpuz159_x64.sys [44680 2025-02-27] (Microsoft Windows Hardware Compatibility Publisher -> CPUID) <==== ATTENTION
+R1 CTIAIO; C:\WINDOWS\system32\drivers\CtiAIo64.sys [34920 2025-02-23] (Microsoft Windows Hardware Compatibility Publisher -> Creative Technology Innovation Co., LTd.)
+R3 ElgatoUsbAudio; C:\WINDOWS\System32\drivers\ElgatoUsbAudio.sys [431296 2025-01-27] (Microsoft Windows Hardware Compatibility Publisher -> )
+R3 ElgatoUsbAudioks; C:\WINDOWS\System32\drivers\ElgatoUsbAudioks.sys [55512 2025-01-27] (Microsoft Windows Hardware Compatibility Publisher -> )
+R3 ElgatoUsbAudio_mixer; C:\WINDOWS\System32\drivers\ElgatoUsbAudio_mixer.sys [46808 2025-01-27] (Microsoft Windows Hardware Compatibility Publisher -> )
+R3 ElgatoVirtUsbAudioEmu; C:\WINDOWS\System32\drivers\ElgatoVirtUsbAudioEmu.sys [97352 2023-11-08] (Microsoft Windows Hardware Compatibility Publisher -> ToriLogic GmbH & Co. KG)
+R3 FocusritePCIeSwRoot; C:\WINDOWS\System32\drivers\FocusritePCIeSwRoot.sys [105192 2022-05-20] (WDKTestCert builds,132265248139626354 -> Focusrite Audio Engineering Ltd.)
+R3 FocusriteUsb; C:\WINDOWS\System32\drivers\FocusriteUsb.sys [197280 2022-05-20] (Focusrite Audio Engineering Ltd -> Focusrite Audio Engineering Ltd.)
+R3 FocusriteUsbAudio; C:\WINDOWS\System32\drivers\FocusriteUsbAudio.sys [97952 2022-05-20] (Focusrite Audio Engineering Ltd -> Focusrite Audio Engineering Ltd.)
+R3 FocusriteUsbSwRoot; C:\WINDOWS\System32\drivers\FocusriteUsbSwRoot.sys [110864 2022-05-20] (WDKTestCert builds,132265248139626354 -> Focusrite Audio Engineering Ltd.)
+R0 fse; C:\WINDOWS\System32\drivers\fse.sys [222528 2025-01-30] (Microsoft Windows -> Microsoft Corporation)
+R1 Gemma; C:\WINDOWS\System32\DRIVERS\gemma.sys [1791064 2024-11-14] (Microsoft Windows Hardware Compatibility Publisher -> BitDefender S.R.L. Bucharest, ROMANIA)
+S3 Ignisv2; C:\WINDOWS\system32\DRIVERS\ignisv2.sys [848472 2025-02-11] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender)
+R2 inpoutx64; C:\WINDOWS\System32\Drivers\inpoutx64.sys [15008 2025-02-20] (Red Fox UK Limited -> Highresolution Enterprises [www.highrez.co.uk])
+R4 IOMap; C:\WINDOWS\system32\drivers\IOMap64.sys [55416 2024-12-06] (ASUSTeK COMPUTER INC. -> ASUSTeK Computer Inc.)
+R3 KslD; C:\WINDOWS\System32\drivers\wd\KslD.sys [278944 2025-03-06] (Microsoft Windows -> Microsoft Corporation)
+S2 l1vhlwf; C:\WINDOWS\System32\drivers\l1vhlwf.sys [140704 2025-02-03] (Microsoft Windows -> Microsoft Corporation)
+S0 MbamElam; C:\WINDOWS\System32\DRIVERS\MbamElam.sys [22120 2025-03-06] (Microsoft Windows Early Launch Anti-malware Publisher -> Malwarebytes)
+S3 MBAMSwissArmy; C:\WINDOWS\System32\Drivers\mbamswissarmy.sys [239568 2025-03-06] (Microsoft Windows Hardware Compatibility Publisher -> Malwarebytes)
+R3 ovpn-dco; C:\WINDOWS\System32\drivers\ovpn-dco.sys [92664 2024-05-22] (WDKTestCert lev,133391533294737317 -> OpenVPN, Inc)
+S3 RedKard; C:\ProgramData\RedKard\bin\RedKard.sys [5661016 2025-02-27] (1047 Games, Inc. -> )
+R3 rt25cx21; C:\WINDOWS\System32\DriverStore\FileRepository\rt25cx21x64.inf_amd64_7a47c3c01d4b9cab\rt25cx21x64.sys [897472 2025-02-20] (Realtek Semiconductor Corp. -> Realtek)
+S3 rtcx21; C:\WINDOWS\System32\DriverStore\FileRepository\rtcx21x64.inf_amd64_feec7a9662e785f0\rtcx21x64.sys [539648 2024-03-28] (Microsoft Windows -> Realtek)
+R3 RtkBtFilter2; C:\WINDOWS\System32\drivers\RtkBtFilter2.sys [200416 2025-02-20] (Microsoft Windows Hardware Compatibility Publisher -> Realtek Semiconductor Corporation)
+R3 RzCommon; C:\WINDOWS\System32\drivers\RzCommon.sys [64880 2023-09-26] (Razer USA Ltd. -> Razer Inc)
+R3 RzDev_007a; C:\WINDOWS\System32\drivers\RzDev_007a.sys [56168 2021-03-22] (Razer USA Ltd. -> Razer Inc)
+R3 RzDev_007e; C:\WINDOWS\System32\drivers\RzDev_007e.sys [56168 2021-03-22] (Razer USA Ltd. -> Razer Inc)
+R3 SteamStreamingMicrophone; C:\WINDOWS\system32\drivers\SteamStreamingMicrophone.sys [40736 2020-06-01] (Valve Corp. -> )
+R3 SteamStreamingSpeakers; C:\WINDOWS\system32\drivers\SteamStreamingSpeakers.sys [40736 2020-06-01] (Valve Corp. -> )
+S3 SurfsharkBypasser; C:\Program Files\Surfshark\Resources\x64\SurfsharkBypasser.sys [128672 2024-11-27] (Microsoft Windows Hardware Compatibility Publisher -> Surfshark)
+R2 trufos; C:\WINDOWS\System32\DRIVERS\trufos.sys [629184 2023-07-20] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender)
+S1 vgk; C:\Program Files\Riot Vanguard\vgk.sys [28298792 2024-12-19] (Riot Games, Inc. -> Riot Games, Inc.)
+R0 vlflt; C:\WINDOWS\System32\DRIVERS\vlflt.sys [1403456 2024-09-23] (Microsoft Windows Hardware Compatibility Publisher -> Bitdefender)
+S3 vmbusproxy; C:\WINDOWS\system32\drivers\vmbusproxy.sys [98304 2025-01-30] (Microsoft Windows -> Microsoft Corporation)
+S0 WdBoot; C:\WINDOWS\System32\drivers\wd\WdBoot.sys [20016 2025-03-06] (Microsoft Windows Early Launch Anti-malware Publisher -> Microsoft Corporation)
+R0 WdFilter; C:\WINDOWS\System32\drivers\wd\WdFilter.sys [601520 2025-03-06] (Microsoft Windows -> Microsoft Corporation)
+S3 WdNisDrv; C:\WINDOWS\System32\drivers\wd\WdNisDrv.sys [100768 2025-03-06] (Microsoft Windows -> Microsoft Corporation)
+R2 WinRing0x64; C:\WINDOWS\System32\Drivers\WinRing0x64.sys [14544 2025-01-21] (Noriyuki MIYAZAKI -> OpenLibSys.org)
+R3 wintun; C:\WINDOWS\System32\drivers\wintun.sys [29592 2025-01-30] (Microsoft Windows Hardware Compatibility Publisher -> WireGuard LLC)
+S3 WireGuard; C:\WINDOWS\System32\drivers\wireguard.sys [489368 2025-02-07] (Microsoft Windows Hardware Compatibility Publisher -> WireGuard LLC)
+S3 GPUZ-v2; \??\C:\Users\Thomas\AppData\Local\Temp\GPUZ-v2.sys [X] <==== ATTENTION
+S3 HWiNFO_204; \??\C:\Users\Thomas\AppData\Local\Temp\HWiNFO_x64_204.sys [X] <==== ATTENTION
+
+==================== NetSvcs (Whitelisted) ===================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+
+==================== One month (created) (Whitelisted) =========
+
+(If an entry is included in the fixlist, the file/folder will be moved.)
+
+2025-03-06 15:44 - 2025-03-06 15:45 - 000046288 _____ C:\Users\Thomas\Downloads\FRST.txt
+2025-03-06 15:44 - 2025-03-06 15:45 - 000000000 ____D C:\FRST
+2025-03-06 15:44 - 2025-03-06 15:44 - 002404352 _____ (Farbar) C:\Users\Thomas\Downloads\FRST64.exe
+2025-03-06 15:12 - 2025-03-06 15:12 - 000431778 _____ C:\WINDOWS\system32\perfh014.dat
+2025-03-06 15:12 - 2025-03-06 15:12 - 000077368 _____ C:\WINDOWS\system32\perfc014.dat
+2025-03-06 14:30 - 2025-03-06 15:03 - 000000000 ___HD C:\$SysReset
+2025-03-06 13:59 - 2025-03-06 14:00 - 000000000 ____D C:\AdwCleaner
+2025-03-06 13:59 - 2025-03-06 13:59 - 008790880 _____ (Malwarebytes) C:\Users\Thomas\Downloads\adwcleaner.exe
+2025-03-06 13:58 - 2025-03-06 13:58 - 000000318 _____ C:\WINDOWS\system32\httpproxy.json
+2025-03-06 13:54 - 2025-03-06 13:54 - 000702828 _____ C:\ProgramData\cl.1741265530.bdinstall.v2.bin
+2025-03-06 13:54 - 2025-03-06 13:54 - 000132684 _____ C:\ProgramData\cl.kit.1741265530.bdinstall.v2.bin
+2025-03-06 13:53 - 2025-03-06 13:53 - 000003842 _____ C:\WINDOWS\system32\Tasks\Bitdefender Agent WatchDog_65D6944A0EF74FDAB96E31112AD39864
+2025-03-06 13:52 - 2025-03-06 14:13 - 000000000 ____D C:\ProgramData\BDLogging
+2025-03-06 13:52 - 2025-03-06 14:11 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Bitdefender Security
+2025-03-06 13:52 - 2025-03-06 14:07 - 000000000 ____D C:\ProgramData\Bitdefender
+2025-03-06 13:52 - 2025-03-06 13:52 - 000002378 _____ C:\Users\Public\Desktop\Bitdefender.lnk
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\WINDOWS\system32\elambkup
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Bitdefender Security App
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Bitdefender
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\ProgramData\Gemma
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\ProgramData\Atc
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\ProgramData\48C4687D-9760-4F5B-BAB3-60351B0841E4
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\Program Files\Common Files\Bitdefender
+2025-03-06 13:52 - 2025-03-06 13:52 - 000000000 ____D C:\Program Files\Bitdefender
+2025-03-06 13:51 - 2025-03-06 13:51 - 000145448 _____ C:\ProgramData\agent.1741265497.bdinstall.v2.bin
+2025-03-06 13:51 - 2025-03-06 13:51 - 000000000 ____D C:\ProgramData\Bitdefender Agent
+2025-03-06 13:51 - 2025-03-06 13:51 - 000000000 ____D C:\Program Files\Bitdefender Agent
+2025-03-06 13:50 - 2025-03-06 13:51 - 018929976 _____ C:\Users\Thomas\Downloads\bitdefender_avfree.exe
+2025-03-06 13:50 - 2025-03-06 13:50 - 000000000 ____D C:\Users\Thomas\AppData\Local\IsolatedStorage
+2025-03-06 13:29 - 2025-03-06 13:29 - 000000000 ____D C:\Users\Thomas\Downloads\Firmware.19.0.1
+2025-03-06 13:26 - 2025-03-06 13:27 - 000000000 ____D C:\Users\Thomas\Downloads\MarioKart8
+2025-03-06 13:23 - 2025-03-06 13:23 - 000000000 ____D C:\Users\Thomas\Downloads\ProdKeys.net-v19.0.1
+2025-03-06 13:20 - 2025-03-06 13:20 - 033521996 _____ C:\Users\Thomas\Downloads\ryujinx-1.2.82-win_x64.zip
+2025-03-06 13:15 - 2025-03-06 13:16 - 000000000 ____D C:\Users\Thomas\AppData\Local\RyuSAK
+2025-03-06 13:15 - 2025-03-06 13:15 - 089904640 _____ (Ecks1337) C:\Users\Thomas\Downloads\RyuSAK-1.6.2.Setup.exe
+2025-03-06 13:01 - 2025-03-06 13:01 - 000000000 ____D C:\Users\Thomas\Downloads\yuzu-1734
+2025-03-06 13:01 - 2025-03-06 13:01 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\yuzu
+2025-03-06 12:59 - 2025-03-06 12:59 - 100060892 _____ C:\Users\Thomas\Downloads\yuzu-1734.zip
+2025-03-06 03:42 - 2025-03-06 15:04 - 000000000 ____D C:\Users\Thomas\AppData\Local\Malwarebytes
+2025-03-06 03:42 - 2025-03-06 03:42 - 000002093 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Malwarebytes.lnk
+2025-03-06 03:42 - 2025-03-06 03:42 - 000002081 _____ C:\Users\Public\Desktop\Malwarebytes.lnk
+2025-03-06 03:41 - 2025-03-06 03:41 - 002832624 _____ (Malwarebytes) C:\Users\Thomas\Downloads\MBSetup.exe
+2025-03-06 03:41 - 2025-03-06 03:41 - 000000000 ____D C:\ProgramData\Malwarebytes
+2025-03-06 03:41 - 2025-03-06 03:41 - 000000000 ____D C:\Program Files\Malwarebytes
+2025-03-06 03:39 - 2025-03-06 13:40 - 000000000 ___HD C:\Users\Thomas\AppData\Roaming\IsFixedSize
+2025-03-06 03:38 - 2025-03-06 03:38 - 000046080 _____ (NirSoft) C:\WINDOWS\nircmd.exe
+2025-03-06 03:38 - 2025-03-06 03:38 - 000003830 _____ C:\WINDOWS\system32\Tasks\WindowsUpdateService
+2025-03-06 03:38 - 2025-03-06 03:38 - 000001329 _____ C:\WINDOWS\Windows.bat
+2025-03-06 03:18 - 2025-03-06 03:18 - 000000000 ____D C:\Users\Thomas\AppData\Local\Vivox
+2025-03-06 03:06 - 2025-03-06 03:18 - 000000000 ____D C:\ProgramData\Trackmania
+2025-03-06 03:06 - 2025-03-06 03:06 - 000000000 ___HD C:\Users\Thomas\AppData\Roaming\com.nadeo.trackmania.windows
+2025-03-06 03:04 - 2025-03-06 03:18 - 000000000 ____D C:\Users\Thomas\Documents\Trackmania
+2025-03-06 03:04 - 2025-03-06 03:04 - 000000000 ____D C:\Users\Thomas\AppData\Local\Ubisoft Game Launcher
+2025-03-06 03:04 - 2025-03-06 03:04 - 000000000 ____D C:\ProgramData\Ubisoft
+2025-03-06 03:04 - 2025-03-06 03:04 - 000000000 ____D C:\Program Files (x86)\Ubisoft
+2025-03-06 02:54 - 2025-03-06 02:54 - 000000223 _____ C:\Users\Thomas\Desktop\Trackmania.url
+2025-03-06 02:07 - 2025-03-06 02:07 - 013122661 _____ C:\Users\Thomas\Downloads\Apollo.exe
+2025-03-05 23:11 - 2025-03-05 23:11 - 000000000 ____D C:\Users\Thomas\Downloads\Retrobat_BIOS-Pack_3.1
+2025-03-05 23:09 - 2025-03-05 23:09 - 044677560 _____ C:\Users\Thomas\Downloads\Retrobat_BIOS-Pack_3.1.zip
+2025-03-05 22:56 - 2025-03-05 22:57 - 000000643 _____ C:\Users\Thomas\Desktop\RetroBat.lnk
+2025-03-05 22:55 - 2025-03-05 23:12 - 000000000 ____D C:\RetroBat
+2025-03-05 22:50 - 2025-03-05 22:53 - 1452441100 _____ (The RetroBat Team ) C:\Users\Thomas\Downloads\RetroBat-v7.0.0-stable-win64-setup.exe
+2025-03-05 21:17 - 2025-03-05 21:17 - 013380830 _____ C:\Users\Thomas\Downloads\ps2_bios.zip
+2025-03-05 21:16 - 2025-03-05 21:17 - 000000000 ____D C:\Users\Thomas\Downloads\SCPH-70012_BIOS_V12_USA_200
+2025-03-05 21:13 - 2025-03-05 21:13 - 000000000 ____D C:\Users\Thomas\Documents\PCSX2
+2025-03-05 21:06 - 2025-03-05 22:54 - 000000000 ___HD C:\WINDOWS\msdownld.tmp
+2025-03-05 21:06 - 2025-03-05 22:54 - 000000000 ____D C:\WINDOWS\SysWOW64\directx
+2025-03-05 21:06 - 2025-03-05 21:06 - 000000655 _____ C:\Users\Public\Desktop\RetroArch.lnk
+2025-03-05 21:06 - 2025-03-05 21:06 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RetroArch
+2025-03-05 21:05 - 2025-03-05 21:10 - 000000000 ____D C:\RetroArch
+2025-03-05 20:49 - 2025-03-05 21:21 - 000000000 ____D C:\Users\Thomas\Documents\ROMS
+2025-03-05 20:48 - 2025-03-05 21:02 - 407684026 _____ C:\Users\Thomas\Downloads\Tom and Jerry in War of the Whiskers (USA) (En,Es).7z
+2025-03-05 20:45 - 2025-03-05 20:46 - 027213953 _____ C:\Users\Thomas\Downloads\Pokemon Stadium.zip
+2025-02-28 00:40 - 2025-02-28 00:40 - 000001159 _____ C:\Users\Thomas\Desktop\MSI Afterburner.lnk
+2025-02-28 00:40 - 2025-02-28 00:40 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\MSI Afterburner
+2025-02-28 00:39 - 2025-02-28 00:40 - 000000000 ____D C:\Program Files (x86)\MSI Afterburner
+2025-02-28 00:35 - 2025-02-28 13:38 - 000003160 _____ C:\WINDOWS\system32\Tasks\GPU Tweak III
+2025-02-28 00:31 - 2025-02-28 00:31 - 105348762 _____ C:\Users\Thomas\Downloads\GPU-Tweak-III-v1880.zip
+2025-02-27 23:49 - 2025-02-27 23:50 - 000000000 ____D C:\Users\Thomas\AppData\Local\PortalWars2
+2025-02-27 23:49 - 2025-02-27 23:49 - 000000000 ____D C:\ProgramData\RedKard
+2025-02-23 20:52 - 2025-02-23 20:52 - 000000000 ____D C:\Program Files\Razer Chroma SDK
+2025-02-23 20:52 - 2025-02-23 20:52 - 000000000 ____D C:\Program Files (x86)\Razer Chroma SDK
+2025-02-23 20:52 - 2025-02-23 20:52 - 000000000 ____D C:\Program Files (x86)\Interhaptics
+2025-02-23 20:51 - 2025-02-23 20:52 - 000000000 ____D C:\Program Files\Razer
+2025-02-23 20:51 - 2025-02-23 20:51 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\razerappengine
+2025-02-23 20:51 - 2025-02-23 20:51 - 000000000 ____D C:\Users\Thomas\AppData\Local\Razer
+2025-02-23 20:51 - 2025-02-23 20:51 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer
+2025-02-23 20:50 - 2025-02-23 20:50 - 012447488 _____ (Razer Inc.) C:\Users\Thomas\Downloads\RazerSynapseInstaller.exe
+2025-02-23 20:50 - 2025-02-23 20:50 - 000000000 ____D C:\Users\Thomas\AppData\Local\AWSToolkit
+2025-02-23 19:38 - 2025-02-23 19:38 - 000042175 _____ C:\Users\Thomas\Documents\ramreturv2.pdf
+2025-02-23 19:29 - 2025-02-23 19:29 - 000105609 _____ C:\Users\Thomas\Documents\ramretur.pdf
+2025-02-23 19:29 - 2025-02-23 19:29 - 000001695 _____ C:\Users\Thomas\AppData\Local\recently-used.xbel
+2025-02-23 19:28 - 2025-02-23 19:29 - 000000000 ____D C:\Users\Thomas\AppData\Local\gtk-2.0
+2025-02-23 19:25 - 2025-02-23 20:10 - 000000000 ____D C:\Users\Thomas\AppData\Local\babl-0.1
+2025-02-23 19:25 - 2025-02-23 19:25 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\GIMP
+2025-02-23 19:25 - 2025-02-23 19:25 - 000000000 ____D C:\Users\Thomas\AppData\Local\GIMP
+2025-02-23 19:25 - 2025-02-23 19:25 - 000000000 ____D C:\Users\Thomas\AppData\Local\gegl-0.4
+2025-02-23 19:24 - 2025-02-23 19:24 - 000050395 _____ C:\Users\Thomas\Downloads\00573132900533126840.pdf
+2025-02-23 03:43 - 2025-02-23 03:43 - 000000000 ____D C:\Program Files\Patriot
+2025-02-23 03:43 - 2025-02-23 03:43 - 000000000 ____D C:\Program Files\ENE
+2025-02-23 03:42 - 2025-02-23 03:43 - 000000000 ____D C:\Program Files (x86)\LightingService
+2025-02-23 03:36 - 2025-02-23 03:37 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\OpenRGB
+2025-02-23 03:36 - 2025-01-21 20:18 - 000014544 _____ (OpenLibSys.org) C:\WINDOWS\system32\Drivers\WinRing0x64.sys
+2025-02-23 03:35 - 2025-02-23 03:35 - 013215232 _____ C:\Users\Thomas\Downloads\OpenRGB_1.0rc1_Windows_64_1fbacde.msi
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000020 ___SH C:\Users\WsiAccount\ntuser.ini
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Start-meny
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Skrivere
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Programdata
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Mine dokumenter
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Maler
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Lokale innstillinger
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Documents\Mine bilder
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Documents\Min musikk
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\Documents\Intern video
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\AppData\Roaming\Microsoft\Windows\Start Menu\Programmer
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\AppData\Local\Programdata
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\AppData\Local\Logg
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 _SHDL C:\Users\WsiAccount\AndrMask
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ___SD C:\Users\WsiAccount\AppData\Roaming\Microsoft\SystemCertificates
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ___SD C:\Users\WsiAccount\AppData\Roaming\Microsoft\Protect
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ___SD C:\Users\WsiAccount\AppData\Roaming\Microsoft\Crypto
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ___SD C:\Users\WsiAccount\AppData\Roaming\Microsoft\Credentials
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Roaming\Microsoft\Windows
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Roaming\Microsoft\Vault
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Roaming\Microsoft\Spelling
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Roaming\Microsoft\Network
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\LocalLow\NVIDIA
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\VirtualStore
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\Packages
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\NVIDIA Corporation
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\NVIDIA
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\D3DSCache
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\ConnectedDevicesPlatform
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount\AppData\Local\AMD
+2025-02-23 00:14 - 2025-02-23 00:14 - 000000000 ____D C:\Users\WsiAccount
+2025-02-22 22:15 - 2025-02-22 22:15 - 038711064 _____ (Advanced Micro Devices, Inc.) C:\Users\Thomas\Downloads\amd-software-adrenalin-edition-24.12.1-minimalsetup-241204_web (1).exe
+2025-02-22 22:14 - 2025-02-22 22:15 - 000000000 ____D C:\Users\Thomas\AppData\Local\AMD_Common
+2025-02-22 21:49 - 2025-02-22 21:49 - 000514599 _____ C:\Users\Thomas\Downloads\ZenTimings_v1.35.zip
+2025-02-22 21:49 - 2025-02-22 21:49 - 000000000 ____D C:\Users\Thomas\Downloads\ZenTimings_v1.35
+2025-02-21 21:35 - 2025-02-21 21:35 - 000000018 _____ C:\Users\Thomas\Documents\rambrikker.txt
+2025-02-21 21:20 - 2025-02-21 21:20 - 012176449 _____ C:\Users\Thomas\Downloads\memtest86-usb.zip
+2025-02-21 19:30 - 2025-02-21 19:31 - 000000000 ____D C:\Users\Thomas\Downloads\TUF-GAMING-B650M-PLUS-WIFI-ASUS-3208
+2025-02-21 19:30 - 2025-02-21 19:30 - 015426871 _____ C:\Users\Thomas\Downloads\TUF-GAMING-B650M-PLUS-WIFI-ASUS-3208.zip
+2025-02-21 18:25 - 2025-02-21 18:25 - 003600192 _____ (CPUID, Inc. ) C:\Users\Thomas\Downloads\cpu-z_2.14-en.exe
+2025-02-21 18:25 - 2025-02-21 18:25 - 000000914 _____ C:\Users\Public\Desktop\CPUID CPU-Z.lnk
+2025-02-21 18:25 - 2025-02-21 18:25 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\CPUID
+2025-02-21 18:25 - 2025-02-21 18:25 - 000000000 ____D C:\Program Files\CPUID
+2025-02-21 18:22 - 2025-02-22 22:14 - 000000000 ____D C:\Program Files\AMD
+2025-02-21 18:22 - 2025-02-21 18:22 - 000003532 _____ C:\WINDOWS\system32\Tasks\AMDAutoUpdate
+2025-02-21 18:22 - 2025-02-21 18:22 - 000002219 _____ C:\Users\Public\Desktop\AMD Ryzen Master.lnk
+2025-02-21 18:22 - 2025-02-21 18:22 - 000000000 ____D C:\Users\Thomas\AppData\Local\Downloaded Installations
+2025-02-21 18:22 - 2025-02-21 18:22 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\AMD Ryzen Master
+2025-02-21 18:21 - 2025-02-21 18:21 - 142526632 _____ (Advanced Micro Devices, Inc.) C:\Users\Thomas\Downloads\amd_ryzen_master.exe
+2025-02-21 16:37 - 2025-02-21 16:37 - 000000219 _____ C:\Users\Thomas\Desktop\Counter-Strike 2.url
+2025-02-21 16:35 - 2025-03-06 15:34 - 000000000 ____D C:\Program Files (x86)\Steam
+2025-02-21 16:35 - 2025-02-21 16:35 - 000001036 _____ C:\Users\Public\Desktop\Steam.lnk
+2025-02-21 16:35 - 2025-02-21 16:35 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam
+2025-02-21 16:35 - 2020-06-01 12:14 - 000040736 _____ C:\WINDOWS\system32\Drivers\SteamStreamingSpeakers.sys
+2025-02-21 16:35 - 2020-06-01 12:14 - 000040736 _____ C:\WINDOWS\system32\Drivers\SteamStreamingMicrophone.sys
+2025-02-21 16:24 - 2025-02-21 16:24 - 002380800 _____ C:\Users\Thomas\Downloads\SteamSetup.exe
+2025-02-21 16:24 - 2025-02-21 16:24 - 000000000 ____D C:\SFCFix
+2025-02-21 16:22 - 2025-02-21 16:23 - 000000000 ____D C:\Users\Thomas\AppData\Local\niemiro
+2025-02-21 16:16 - 2025-02-21 16:16 - 002316112 _____ (niemiro) C:\Users\Thomas\Downloads\SFCFix.exe
+2025-02-21 16:14 - 2025-03-06 02:38 - 000000000 ____D C:\WINDOWS\system32\appmgmt
+2025-02-21 16:14 - 2025-02-21 16:14 - 000000000 ____D C:\Users\Thomas\Downloads\Armoury_Crate_Uninstall_Tool
+2025-02-21 02:36 - 2025-02-21 02:36 - 000000000 ____D C:\Users\Thomas\AppData\LocalLow\AMD
+2025-02-21 02:33 - 2025-02-21 02:33 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\NVIDIA
+2025-02-21 02:24 - 2025-02-21 02:24 - 003253544 _____ (TechPowerUp (www.techpowerup.com)) C:\Users\Thomas\Downloads\MemTest64.exe
+2025-02-21 01:13 - 2025-02-21 01:13 - 000000000 ____D C:\WINDOWS\system32\Drivers\NVIDIA Corporation
+2025-02-21 01:12 - 2025-02-15 21:59 - 000125048 _____ (NVIDIA Corporation) C:\WINDOWS\system32\Drivers\nvhda64v.sys
+2025-02-21 01:11 - 2025-02-19 04:03 - 002072424 _____ C:\WINDOWS\system32\vulkaninfo-1-999-0-0-0.exe
+2025-02-21 01:11 - 2025-02-19 04:03 - 002072424 _____ C:\WINDOWS\system32\vulkaninfo.exe
+2025-02-21 01:11 - 2025-02-19 04:03 - 001614184 _____ C:\WINDOWS\SysWOW64\vulkaninfo-1-999-0-0-0.exe
+2025-02-21 01:11 - 2025-02-19 04:03 - 001614184 _____ C:\WINDOWS\SysWOW64\vulkaninfo.exe
+2025-02-21 01:11 - 2025-02-19 04:03 - 001576832 _____ C:\WINDOWS\system32\vulkan-1-999-0-0-0.dll
+2025-02-21 01:11 - 2025-02-19 04:03 - 001576832 _____ C:\WINDOWS\system32\vulkan-1.dll
+2025-02-21 01:11 - 2025-02-19 04:03 - 001389952 _____ C:\WINDOWS\SysWOW64\vulkan-1-999-0-0-0.dll
+2025-02-21 01:11 - 2025-02-19 04:03 - 001389952 _____ C:\WINDOWS\SysWOW64\vulkan-1.dll
+2025-02-21 01:11 - 2025-02-19 04:03 - 000478344 _____ (Khronos Group) C:\WINDOWS\system32\OpenCL.dll
+2025-02-21 01:11 - 2025-02-19 04:03 - 000374920 _____ (Khronos Group) C:\WINDOWS\SysWOW64\OpenCL.dll
+2025-02-21 01:11 - 2025-02-19 03:59 - 001564296 _____ (NVIDIA Corporation) C:\WINDOWS\system32\NvIFR64.dll
+2025-02-21 01:11 - 2025-02-19 03:59 - 001215624 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\NvIFR.dll
+2025-02-21 01:11 - 2025-02-19 03:59 - 001183344 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvml.dll
+2025-02-21 01:11 - 2025-02-19 03:59 - 000903304 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvidia-smi.exe
+2025-02-21 01:11 - 2025-02-19 03:59 - 000670344 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvofapi64.dll
+2025-02-21 01:11 - 2025-02-19 03:59 - 000505992 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvofapi.dll
+2025-02-21 01:11 - 2025-02-19 03:58 - 025643656 _____ C:\WINDOWS\system32\nvidia-pcc.exe
+2025-02-21 01:11 - 2025-02-19 03:58 - 019904152 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcuvid.dll
+2025-02-21 01:11 - 2025-02-19 03:58 - 002194072 _____ (NVIDIA Corporation) C:\WINDOWS\system32\NvFBC64.dll
+2025-02-21 01:11 - 2025-02-19 03:58 - 001641096 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\NvFBC.dll
+2025-02-21 01:11 - 2025-02-19 03:58 - 001046176 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvEncodeAPI64.dll
+2025-02-21 01:11 - 2025-02-19 03:58 - 000804504 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvEncodeAPI.dll
+2025-02-21 01:11 - 2025-02-19 03:58 - 000463000 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvdebugdump.exe
+2025-02-21 01:11 - 2025-02-19 03:57 - 019329184 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvcuvid.dll
+2025-02-21 01:11 - 2025-02-19 03:57 - 007224984 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvcuda.dll
+2025-02-21 01:11 - 2025-02-19 03:57 - 005913752 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcpl.dll
+2025-02-21 01:11 - 2025-02-19 03:57 - 005500568 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcudadebugger.dll
+2025-02-21 01:11 - 2025-02-19 03:57 - 003944600 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvcuda.dll
+2025-02-21 01:11 - 2025-02-19 03:57 - 000853656 _____ (NVIDIA Corporation) C:\WINDOWS\system32\MCU.exe
+2025-02-21 01:11 - 2025-02-19 03:56 - 005551224 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvapi64.dll
+2025-02-21 01:11 - 2025-02-19 03:56 - 004857528 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvapi.dll
+2025-02-21 01:11 - 2025-02-15 21:59 - 000137640 _____ C:\WINDOWS\system32\nvinfo.pb
+2025-02-20 23:59 - 2025-02-20 23:59 - 000000000 ____D C:\Users\Thomas\Downloads\DRV_Chipset_AMD_AM5_SZ-TSD_W11_64_V70108129_20250115R
+2025-02-20 23:52 - 2025-03-06 15:05 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\asus_framework
+2025-02-20 23:45 - 2025-02-20 23:52 - 000000000 ____D C:\ProgramData\Realtek
+2025-02-20 23:45 - 2025-02-20 23:45 - 001185851 _____ C:\Users\Thomas\Downloads\Armoury_Crate_Uninstall_Tool.zip
+2025-02-20 23:36 - 2025-02-20 23:36 - 000000000 ____D C:\WINDOWS\system32\DTS
+2025-02-20 23:35 - 2025-02-20 23:57 - 000000000 ____D C:\ProgramData\UWP
+2025-02-20 23:35 - 2025-02-20 23:42 - 000000000 ____D C:\Program Files (x86)\Realtek
+2025-02-20 23:35 - 2025-02-20 23:36 - 000000000 ___HD C:\Program Files (x86)\Temp
+2025-02-20 23:35 - 2025-02-20 23:30 - 006665704 _____ (Realtek Semiconductor Corp.) C:\WINDOWS\system32\Drivers\RTKVHD64.sys
+2025-02-20 23:35 - 2025-02-20 23:30 - 000313328 _____ (Realtek Semiconductor Corp.) C:\WINDOWS\system32\RTHDASIO64.dll
+2025-02-20 23:35 - 2025-02-20 23:30 - 000268272 _____ (Realtek Semiconductor Corp.) C:\WINDOWS\SysWOW64\RTHDASIO.dll
+2025-02-20 23:30 - 2025-02-20 23:30 - 000000000 _____ C:\WINDOWS\SysWOW64\Drivers\1043_ASUSTeK_System Product Name.alu
+2025-02-20 23:21 - 2025-02-23 03:48 - 000000000 ___HD C:\Program Files (x86)\InstallShield Installation Information
+2025-02-20 23:21 - 2025-02-23 03:48 - 000000000 ____D C:\WINDOWS\system32\Tasks\ASUS
+2025-02-20 23:21 - 2025-02-23 03:42 - 000000000 ____D C:\Users\Thomas\AppData\Local\ASUS
+2025-02-20 23:21 - 2025-02-20 23:27 - 000000000 ____D C:\Users\Thomas\AppData\Local\AcSdkInsLog
+2025-02-20 23:21 - 2024-12-06 15:43 - 000055416 ____N (ASUSTeK Computer Inc.) C:\WINDOWS\system32\Drivers\IOMap64.sys
+2025-02-20 23:21 - 2024-05-14 09:55 - 000054888 _____ (ASUSTeK Computer Inc.) C:\WINDOWS\system32\Drivers\IOMap64.sys-old
+2025-02-20 23:20 - 2025-03-05 20:24 - 000000000 ____D C:\Program Files\ASUS
+2025-02-20 23:20 - 2024-09-25 12:13 - 000524648 _____ (Asustek Computer Inc.) C:\WINDOWS\system32\AsIO3.dll
+2025-02-20 23:20 - 2024-09-25 12:13 - 000430440 _____ (Asustek Computer Inc.) C:\WINDOWS\SysWOW64\AsIO3.dll
+2025-02-20 23:20 - 2024-09-25 00:47 - 000058936 _____ (Asustek Computer Inc.) C:\WINDOWS\system32\Drivers\AsIO3.sys
+2025-02-20 23:17 - 2025-02-28 00:35 - 000000000 ____D C:\Program Files (x86)\ASUS
+2025-02-20 23:17 - 2025-02-20 23:17 - 000000000 ____D C:\Users\Thomas\Downloads\ArmouryCrateInstallTool
+2025-02-20 23:16 - 2025-02-20 23:16 - 002157288 _____ C:\Users\Thomas\Downloads\ArmouryCrateInstallTool.zip
+2025-02-20 22:50 - 2025-02-20 23:01 - 000000000 ____D C:\Users\Thomas\Downloads\LibreHardwareMonitor-net472
+2025-02-20 22:50 - 2025-02-20 22:50 - 001930741 _____ C:\Users\Thomas\Downloads\LibreHardwareMonitor-net472.zip
+2025-02-20 22:33 - 2025-02-20 22:33 - 000015008 _____ (Highresolution Enterprises [www.highrez.co.uk]) C:\WINDOWS\system32\Drivers\inpoutx64.sys
+2025-02-20 00:04 - 2025-03-03 00:37 - 000000000 ____D C:\Users\Thomas\AppData\Local\NVIDIA Corporation
+2025-02-20 00:04 - 2025-02-28 00:40 - 000001434 _____ C:\Users\Public\Desktop\NVIDIA.lnk
+2025-02-20 00:04 - 2025-02-20 00:04 - 000000000 ____D C:\Users\Thomas\ansel
+2025-02-20 00:02 - 2025-02-20 00:02 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation
+2025-02-20 00:02 - 2025-02-19 01:05 - 000180760 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvaudcap64v.dll
+2025-02-20 00:02 - 2025-02-19 01:05 - 000159768 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvaudcap32v.dll
+2025-02-20 00:01 - 2024-11-26 08:17 - 000059928 _____ (NVIDIA Corporation) C:\WINDOWS\system32\Drivers\nvvad64v.sys
+2025-02-20 00:00 - 2025-03-06 15:09 - 000000000 ____D C:\Users\Thomas\AppData\Local\D3DSCache
+2025-02-20 00:00 - 2025-02-21 02:36 - 000000000 ____D C:\Users\Thomas\AppData\Local\NVIDIA
+2025-02-19 23:58 - 2025-03-06 15:05 - 000000000 ____D C:\ProgramData\NVIDIA
+2025-02-19 23:58 - 2025-02-21 01:13 - 000000000 ____D C:\ProgramData\NVIDIA Corporation
+2025-02-19 23:52 - 2024-07-14 21:28 - 009979672 _____ C:\WINDOWS\system32\hiprt02000_amd.hipfb
+2025-02-19 23:52 - 2024-07-14 21:28 - 002459536 _____ C:\WINDOWS\system32\oro_compiled_kernels.hipfb
+2025-02-19 23:52 - 2024-07-14 21:28 - 000154384 _____ C:\WINDOWS\system32\samu_krnl_ci.sbin
+2025-02-19 23:52 - 2024-07-14 21:28 - 000138832 _____ C:\WINDOWS\system32\samu_krnl_isv_ci.sbin
+2025-02-19 23:52 - 2024-07-14 21:28 - 000128048 _____ C:\WINDOWS\system32\kapp_ci.sbin
+2025-02-19 23:52 - 2024-07-14 21:28 - 000121168 _____ C:\WINDOWS\system32\kapp_si.sbin
+2025-02-19 23:52 - 2024-07-14 21:27 - 113284336 _____ C:\WINDOWS\system32\amdxc64.so
+2025-02-19 23:46 - 2025-02-19 23:46 - 001675768 _____ (Wagnardsoft) C:\Users\Thomas\Downloads\DDU v18.0.9.3_setup.exe
+2025-02-19 23:46 - 2025-02-19 23:46 - 000001296 _____ C:\Users\Public\Desktop\Display Driver Uninstaller.lnk
+2025-02-19 23:46 - 2025-02-19 23:46 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Display Driver Uninstaller
+2025-02-19 23:46 - 2025-02-19 23:46 - 000000000 ____D C:\Program Files (x86)\Display Driver Uninstaller
+2025-02-19 17:59 - 2025-02-23 20:16 - 000027002 _____ C:\Users\Thomas\Downloads\OCCT.config.json
+2025-02-19 17:55 - 2025-02-19 17:55 - 228619312 _____ (OCCT) C:\Users\Thomas\Downloads\OCCT.exe
+2025-02-18 19:29 - 2025-02-21 22:01 - 000132536 _____ C:\WINDOWS\SysWOW64\wallpaperservice32.exe
+2025-02-18 18:59 - 2025-02-21 01:13 - 000000000 ____D C:\Users\Thomas\AppData\LocalLow\NVIDIA
+2025-02-17 22:52 - 2025-02-17 22:52 - 000000000 ____D C:\Users\Thomas\Documents\PowerToys
+2025-02-17 22:42 - 2025-03-06 15:03 - 000000000 ____D C:\WINDOWS\Minidump
+2025-02-17 20:53 - 2025-02-17 20:53 - 844710800 _____ (NVIDIA Corporation) C:\Users\Thomas\Downloads\572.42-desktop-win10-win11-64bit-international-dch-whql.exe
+2025-02-17 17:35 - 2025-02-17 17:35 - 000000000 ____D C:\Users\Thomas\Documents\WhirlwindFX
+2025-02-17 17:35 - 2025-02-17 17:35 - 000000000 ____D C:\Users\Thomas\AppData\Local\firestore
+2025-02-17 17:34 - 2025-02-19 23:43 - 000000000 ____D C:\Users\Thomas\AppData\Local\VortxEngine
+2025-02-17 17:34 - 2025-02-17 17:34 - 277517792 _____ (WhirlwindFX) C:\Users\Thomas\Downloads\Install_SignalRgb.exe
+2025-02-17 17:34 - 2025-02-17 17:34 - 000000000 ____D C:\Users\Thomas\AppData\Local\firebase-heartbeat
+2025-02-17 17:34 - 2025-02-17 17:34 - 000000000 ____D C:\Users\Thomas\AppData\Local\__FIRAPP_DEFAULT
+2025-02-17 01:47 - 2025-02-17 01:47 - 045758508 _____ C:\Users\Thomas\Downloads\MSIAfterburnerInstaller466Beta5.zip
+2025-02-16 23:56 - 2025-02-16 23:56 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\TeamViewer
+2025-02-16 19:05 - 2025-02-16 19:06 - 000000000 ____D C:\Users\Thomas\Documents\Doku
+2025-02-16 19:05 - 2025-02-16 19:05 - 000000000 ____D C:\Users\Thomas\Documents\Xfer
+2025-02-16 19:05 - 2025-02-16 19:05 - 000000000 ____D C:\Users\Thomas\Documents\Test
+2025-02-16 19:05 - 2025-02-16 19:05 - 000000000 ____D C:\Users\Thomas\Documents\Splice
+2025-02-16 19:05 - 2025-02-16 19:05 - 000000000 ____D C:\Users\Thomas\Documents\_FL Music
+2025-02-16 19:05 - 2025-02-16 17:44 - 000000000 ____D C:\Users\Thomas\Documents\Vital
+2025-02-15 18:25 - 2025-03-06 15:05 - 000000000 ____D C:\WINDOWS\CbsTemp
+2025-02-12 21:16 - 2025-02-12 21:16 - 001477076 _____ C:\Users\Thomas\Downloads\com.barraider.windowsmover.v2.6.1.zip
+2025-02-10 22:01 - 2025-02-10 22:01 - 000000000 ____D C:\Users\Thomas\AppData\Local\UniCompactView
+2025-02-10 22:00 - 2025-02-10 22:01 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Netease
+2025-02-10 22:00 - 2025-02-10 22:00 - 000000048 ____R C:\Users\Thomas\AppData\Local\BC83FB83EA6E5A64C86B613C7218AA35
+2025-02-10 22:00 - 2025-02-10 22:00 - 000000000 ____D C:\Users\Thomas\AppData\Local\UniSDK_FirstOpen
+2025-02-10 22:00 - 2025-02-10 22:00 - 000000000 ____D C:\Users\Thomas\AppData\Local\NgConsentManager
+2025-02-10 21:59 - 2025-02-27 23:49 - 000000000 ____D C:\Users\Thomas\AppData\Local\UnrealEngine
+2025-02-10 21:59 - 2025-02-10 22:01 - 000000000 ____D C:\Users\Thomas\AppData\Local\Netease
+2025-02-10 21:59 - 2025-02-10 21:59 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\MarvelRivals_Launcher
+2025-02-10 21:59 - 2025-02-10 21:59 - 000000000 ____D C:\Users\Thomas\AppData\Local\UniSDK
+2025-02-10 21:59 - 2025-02-10 21:59 - 000000000 ____D C:\Users\Thomas\AppData\Local\MarvelRivals_Launcher
+2025-02-10 21:59 - 2025-02-10 21:59 - 000000000 ____D C:\Users\Thomas\AppData\Local\Marvel
+2025-02-10 21:59 - 2025-02-10 21:59 - 000000000 ____D C:\Users\Thomas\AppData\Local\CrashReportClient
+2025-02-07 21:13 - 2025-02-07 21:13 - 000000000 ____D C:\Users\Thomas\AppData\Local\mpv
+2025-02-07 21:12 - 2025-02-07 21:12 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\mpv
+2025-02-07 21:11 - 2025-02-07 21:11 - 000000976 _____ C:\Users\Public\Desktop\Open TV.lnk
+2025-02-07 21:11 - 2025-02-07 21:11 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\fredol
+2025-02-07 21:11 - 2025-02-07 21:11 - 000000000 ____D C:\Users\Thomas\AppData\Local\fredol
+2025-02-07 21:11 - 2025-02-07 21:11 - 000000000 ____D C:\Users\Thomas\AppData\Local\dev.fredol.open-tv
+2025-02-07 21:11 - 2025-02-07 21:11 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Open TV
+2025-02-07 21:11 - 2025-02-07 21:11 - 000000000 ____D C:\Program Files\Open TV
+2025-02-07 21:10 - 2025-02-07 21:10 - 118325248 _____ C:\Users\Thomas\Downloads\Open.TV_1.4.1_x64_en-US.msi
+2025-02-06 22:10 - 2025-02-06 22:10 - 000007602 _____ C:\Users\Thomas\AppData\Local\Resmon.ResmonCfg
+2025-02-06 15:17 - 2025-03-06 15:05 - 000000000 ____D C:\WINDOWS\system32\Tasks\PowerToys
+2025-02-06 15:17 - 2025-02-06 15:17 - 000000000 ____D C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PowerToys (Preview)
+2025-02-06 15:17 - 2025-02-06 15:17 - 000000000 ____D C:\Program Files\PowerToys
+2025-02-05 19:58 - 2025-02-05 19:58 - 000001117 _____ C:\Users\Public\Desktop\Elgato Wave Link.lnk
+2025-02-05 19:46 - 2025-02-05 19:46 - 000000000 ____D C:\Users\Thomas\AppData\Local\cache
+2025-02-05 18:07 - 2025-02-05 18:07 - 000000000 ____D C:\Users\Thomas\Documents\Lightshot
+
+==================== One month (modified) ==================
+
+(If an entry is included in the fixlist, the file/folder will be moved.)
+
+2025-03-06 15:40 - 2024-04-01 08:26 - 000000000 ____D C:\ProgramData\regid.1991-06.com.microsoft
+2025-03-06 15:15 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\SystemTemp
+2025-03-06 15:12 - 2025-01-30 14:44 - 001332960 _____ C:\WINDOWS\system32\PerfStringBackup.INI
+2025-03-06 15:12 - 2024-04-01 08:24 - 000000000 ____D C:\WINDOWS\INF
+2025-03-06 15:07 - 2025-01-30 16:42 - 000000000 ____D C:\Users\Thomas\AppData\Local\Spotify
+2025-03-06 15:07 - 2025-01-30 14:53 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\discord
+2025-03-06 15:06 - 2025-01-30 16:42 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Spotify
+2025-03-06 15:06 - 2025-01-30 14:53 - 000000000 ____D C:\Users\Thomas\AppData\Local\Discord
+2025-03-06 15:05 - 2025-01-30 21:37 - 000013286 _____ C:\WINDOWS\system32\5E37410B-D6F1-471D-AE27-563CEAC0D6B2
+2025-03-06 15:05 - 2025-01-30 21:37 - 000000006 ____H C:\WINDOWS\Tasks\SA.DAT
+2025-03-06 15:05 - 2025-01-30 21:36 - 000901328 _____ () C:\WINDOWS\system32\wpbbin.exe
+2025-03-06 15:05 - 2025-01-30 21:36 - 000845256 _____ C:\WINDOWS\system32\AsusUpdateCheck.exe
+2025-03-06 15:05 - 2025-01-30 21:36 - 000012288 ___SH C:\DumpStack.log.tmp
+2025-03-06 15:05 - 2025-01-30 21:36 - 000001623 _____ C:\WINDOWS\system32\config\VSMIDK
+2025-03-06 15:05 - 2025-01-30 14:53 - 000000000 ____D C:\Program Files\TeamViewer
+2025-03-06 15:05 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\ServiceState
+2025-03-06 15:05 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\AppReadiness
+2025-03-06 15:05 - 2024-04-01 08:21 - 000262144 _____ C:\WINDOWS\system32\config\BBI
+2025-03-06 14:26 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\LiveKernelReports
+2025-03-06 14:07 - 2025-01-30 14:55 - 000000000 ____D C:\ProgramData\Surfshark
+2025-03-06 13:54 - 2025-01-30 14:41 - 000000000 ____D C:\Users\Thomas\AppData\Local\Packages
+2025-03-06 13:54 - 2025-01-30 14:41 - 000000000 ____D C:\ProgramData\Packages
+2025-03-06 13:54 - 2024-04-01 08:26 - 000000000 ___HD C:\Program Files\WindowsApps
+2025-03-06 13:53 - 2024-04-01 08:21 - 000032768 _____ C:\WINDOWS\system32\config\ELAM
+2025-03-06 13:51 - 2025-01-30 14:55 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Surfshark
+2025-03-06 13:50 - 2025-01-30 14:55 - 000000000 ____D C:\Users\Thomas\AppData\Local\Surfshark
+2025-03-06 13:46 - 2025-01-30 17:06 - 000000000 ____D C:\Users\Thomas\AppData\Local\CrashDumps
+2025-03-06 13:16 - 2025-01-30 14:53 - 000000000 ____D C:\Users\Thomas\AppData\Local\SquirrelTemp
+2025-03-06 03:53 - 2024-04-01 08:26 - 000000000 ____D C:\ProgramData\USOPrivate
+2025-03-06 03:42 - 2024-04-01 08:26 - 000000000 ___HD C:\WINDOWS\ELAMBKUP
+2025-03-06 02:07 - 2025-01-30 21:37 - 000000000 ____D C:\WINDOWS\system32\Drivers\wd
+2025-03-05 23:06 - 2025-01-31 03:13 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Code
+2025-03-05 22:55 - 2025-01-30 14:45 - 000000000 ____D C:\ProgramData\Package Cache
+2025-03-05 22:55 - 2024-04-01 08:26 - 000000000 ____D C:\Program Files\Common Files\microsoft shared
+2025-03-05 22:28 - 2025-01-30 21:36 - 000000000 ____D C:\WINDOWS\system32\SleepStudy
+2025-03-05 20:01 - 2025-01-30 15:05 - 000000527 _____ C:\Users\Thomas\.vivaldi_reporting_data
+2025-03-05 19:22 - 2025-01-30 14:53 - 000002252 _____ C:\Users\Thomas\Desktop\Discord.lnk
+2025-03-01 15:48 - 2025-01-30 21:37 - 000002438 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Microsoft Edge.lnk
+2025-03-01 15:48 - 2025-01-30 21:37 - 000002276 _____ C:\Users\Public\Desktop\Microsoft Edge.lnk
+2025-03-01 15:18 - 2025-01-30 21:36 - 000304984 _____ C:\WINDOWS\system32\FNTCACHE.DAT
+2025-02-28 13:39 - 2025-01-30 21:37 - 000000000 ____D C:\ProgramData\ASUS
+2025-02-28 00:40 - 2025-01-30 14:45 - 000003834 _____ C:\WINDOWS\system32\Tasks\NVIDIA app SelfUpdate_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}
+2025-02-28 00:40 - 2025-01-30 14:45 - 000000000 ____D C:\Program Files (x86)\NVIDIA Corporation
+2025-02-27 22:43 - 2025-01-30 15:05 - 000000000 ____D C:\Users\Thomas\AppData\Local\Vivaldi
+2025-02-27 15:05 - 2025-01-30 15:05 - 000002388 _____ C:\Users\Thomas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Vivaldi.lnk
+2025-02-27 15:05 - 2025-01-30 15:05 - 000002351 _____ C:\Users\Thomas\Desktop\Vivaldi.lnk
+2025-02-26 14:35 - 2025-01-30 14:53 - 000000000 ____D C:\Users\Thomas\AppData\Local\TeamViewer
+2025-02-24 22:57 - 2025-01-30 14:41 - 000000000 ____D C:\Users\Thomas
+2025-02-24 19:50 - 2025-01-30 14:53 - 000000000 ____D C:\Users\Thomas\AppData\Local\Overwolf
+2025-02-23 20:54 - 2025-01-30 14:41 - 000000000 ____D C:\Program Files (x86)\Razer
+2025-02-23 20:53 - 2025-01-30 14:41 - 000000000 ____D C:\ProgramData\Razer
+2025-02-23 04:09 - 2025-01-30 15:12 - 000000000 ____D C:\Program Files (x86)\FanControl
+2025-02-23 00:14 - 2025-02-03 15:43 - 000000000 ____D C:\Users\Thomas\AppData\Local\AMD
+2025-02-22 22:14 - 2025-01-30 15:39 - 000000000 ____D C:\AMD
+2025-02-21 21:52 - 2025-01-30 15:34 - 000000000 ____D C:\Users\Thomas\AppData\Local\Steam
+2025-02-21 18:01 - 2025-01-30 14:54 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Overwolf
+2025-02-21 16:03 - 2025-02-03 23:41 - 000000000 ____D C:\WINDOWS\InboxApps
+2025-02-21 16:03 - 2025-02-02 03:43 - 000000000 ____D C:\WINDOWS\DiagTrack
+2025-02-21 16:03 - 2025-02-02 03:43 - 000000000 ____D C:\Program Files\Windows Photo Viewer
+2025-02-21 16:03 - 2025-02-02 03:43 - 000000000 ____D C:\Program Files (x86)\Windows Photo Viewer
+2025-02-21 01:12 - 2025-01-30 14:43 - 000000000 ____D C:\Program Files\NVIDIA Corporation
+2025-02-20 23:30 - 2024-07-30 16:50 - 001007752 _____ (Realtek Semiconductor Corp.) C:\WINDOWS\RtkBtManServ.exe
+2025-02-20 23:30 - 2024-07-30 16:50 - 000200416 _____ (Realtek Semiconductor Corporation) C:\WINDOWS\system32\Drivers\RtkBtFilter2.sys
+2025-02-20 23:30 - 2024-07-30 16:50 - 000101957 _____ C:\WINDOWS\rtl8852b_mp_chip_new.dat
+2025-02-20 23:30 - 2024-07-15 22:41 - 008900976 _____ (Realtek Semiconductor Corporation ) C:\WINDOWS\system32\Drivers\rtwlane601.sys
+2025-02-20 23:30 - 2024-07-15 22:33 - 000394771 _____ C:\WINDOWS\system32\Drivers\rtldata601.txt
+2025-02-20 23:23 - 2025-01-30 15:12 - 000000000 ____D C:\Program Files\dotnet
+2025-02-20 23:11 - 2025-01-30 15:23 - 000003374 _____ C:\WINDOWS\system32\Tasks\FanControl
+2025-02-20 22:31 - 2025-01-30 15:12 - 000001116 _____ C:\ProgramData\Microsoft\Windows\Start Menu\Programs\FanControl.lnk
+2025-02-20 20:11 - 2025-01-30 14:53 - 000000000 ____D C:\Program Files (x86)\Overwolf
+2025-02-20 19:45 - 2025-01-30 21:58 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Docker Desktop
+2025-02-20 14:03 - 2025-01-30 22:03 - 000000441 _____ C:\WINDOWS\system32\Drivers\etc\hosts.ics
+2025-02-20 14:03 - 2025-01-30 21:58 - 000000000 ____D C:\Users\Thomas\.docker
+2025-02-20 14:03 - 2025-01-30 21:49 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Docker
+2025-02-20 13:57 - 2025-01-30 15:35 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam
+2025-02-19 23:52 - 2025-01-30 14:43 - 000000000 ____D C:\WINDOWS\system32\AMD
+2025-02-19 23:42 - 2025-01-30 17:38 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\Microsoft\MMC
+2025-02-19 01:24 - 2025-01-30 14:45 - 003108896 _____ (NVIDIA Corporation) C:\WINDOWS\system32\nvspcap64.dll
+2025-02-19 01:24 - 2025-01-30 14:45 - 002398752 _____ (NVIDIA Corporation) C:\WINDOWS\SysWOW64\nvspcap.dll
+2025-02-19 01:24 - 2025-01-30 14:45 - 000271904 _____ C:\WINDOWS\system32\FvSDK_x64.dll
+2025-02-19 01:24 - 2025-01-30 14:45 - 000245792 _____ C:\WINDOWS\SysWOW64\FvSDK_x86.dll
+2025-02-17 16:40 - 2025-01-30 21:57 - 000000001 _____ C:\WINDOWS\vgkbootstatus.dat
+2025-02-15 03:21 - 2024-04-01 08:26 - 000000000 ___RD C:\WINDOWS\ImmersiveControlPanel
+2025-02-15 03:21 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\SystemResources
+2025-02-15 03:21 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\system32\SecureBootUpdates
+2025-02-15 03:21 - 2024-04-01 08:26 - 000000000 ____D C:\WINDOWS\bcastdvr
+2025-02-14 20:07 - 2025-01-30 21:56 - 000000000 ____D C:\WINDOWS\system32\MRT
+2025-02-14 20:06 - 2025-01-30 21:56 - 209365816 ____C (Microsoft Corporation) C:\WINDOWS\system32\MRT.exe
+2025-02-12 21:43 - 2025-01-30 14:51 - 000000000 ____D C:\ProgramData\Riot Games
+2025-02-10 21:59 - 2025-01-30 14:51 - 000000000 ____D C:\ProgramData\Epic
+2025-02-07 01:40 - 2025-01-30 14:51 - 000000000 ____D C:\Users\Thomas\AppData\Roaming\riot-client-ux
+2025-02-06 17:23 - 2025-01-30 16:01 - 000000000 ____D C:\ProgramData\kiloHearts
+2025-02-05 19:58 - 2025-01-30 14:51 - 000000000 ____D C:\Program Files\Elgato
+
+==================== Files in the root of some directories ========
+
+2025-01-30 17:07 - 2025-01-30 17:07 - 000001190 _____ () C:\Users\Thomas\AppData\Roaming\vibranceGUI.log
+2025-02-10 22:00 - 2025-02-10 22:00 - 000000048 ____R () C:\Users\Thomas\AppData\Local\BC83FB83EA6E5A64C86B613C7218AA35
+2025-02-23 19:29 - 2025-02-23 19:29 - 000001695 _____ () C:\Users\Thomas\AppData\Local\recently-used.xbel
+2025-02-06 22:10 - 2025-02-06 22:10 - 000007602 _____ () C:\Users\Thomas\AppData\Local\Resmon.ResmonCfg
+2025-01-30 14:54 - 2025-01-30 14:54 - 000000003 _____ () C:\Users\Thomas\AppData\Local\updater.log
+2025-01-30 14:54 - 2025-01-30 14:54 - 000000424 _____ () C:\Users\Thomas\AppData\Local\UserProducts.xml
+
+==================== SigCheck ============================
+
+(There is no automatic fix for files that do not pass verification.)
+
+==================== End of FRST.txt ========================

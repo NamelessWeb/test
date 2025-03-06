@@ -1,0 +1,555 @@
+Additional scan result of Farbar Recovery Scan Tool (x64) Version: 06-03-2025
+Ran by Thomas (06-03-2025 15:45:44)
+Running from C:\Users\Thomas\Downloads
+Microsoft Windows 11 Pro Version 24H2 26100.3194 (X64) (2025-01-30 13:40:55)
+Boot Mode: Normal
+==========================================================
+
+
+==================== Accounts: =============================
+
+(If an entry is included in the fixlist, it will be removed.)
+
+Administrator (S-1-5-21-1380129379-2595566839-1166586904-500 - Administrator - Disabled)
+Gjest (S-1-5-21-1380129379-2595566839-1166586904-501 - Limited - Disabled)
+Standardkonto (S-1-5-21-1380129379-2595566839-1166586904-503 - Limited - Disabled)
+Thomas (S-1-5-21-1380129379-2595566839-1166586904-1000 - Administrator - Enabled) => C:\Users\Thomas
+WDAGUtilityAccount (S-1-5-21-1380129379-2595566839-1166586904-504 - Limited - Disabled)
+WsiAccount (S-1-5-21-1380129379-2595566839-1166586904-1002 - Limited - Disabled) => C:\Users\WsiAccount
+
+==================== Security Center ========================
+
+(If an entry is included in the fixlist, it will be removed.)
+
+AV: Malwarebytes (Disabled - Up to date) {0D452135-A081-B000-D6B6-132E52638543}
+AV: Bitdefender Antivirus (Enabled - Up to date) {0F59B032-EA77-E3A8-2382-74A4346E5522}
+AV: Windows Defender (Disabled - Up to date) {D68DDC3A-831F-4fae-9E44-DA132C1ACF46}
+
+==================== Installed Programs ======================
+
+(Only the adware programs with "Hidden" flag could be added to the fixlist to unhide them. The adware programs should be uninstalled manually.)
+
+7-Zip 24.09 (x64) (HKLM\...\7-Zip) (Version: 24.09 - Igor Pavlov)
+AMD 3D V-Cache Performance Optimizer Driver (HKLM-x32\...\{4537278A-8E70-4021-A866-38CE644D92F8}) (Version: 1.0.0.10 - Advanced Micro Devices, Inc.) Hidden
+AMD Application Compatibility Database Driver (HKLM-x32\...\{7466773D-AE4B-48F6-8E12-D64B555C1BEA}) (Version: 1.0.0.3 - Advanced Micro Devices, Inc.) Hidden
+AMD Chipset Software (HKLM-x32\...\AMD_Chipset_IODrivers) (Version: 7.01.08.129 - Advanced Micro Devices, Inc.)
+AMD GPIO2 Driver (HKLM-x32\...\{E9DD399F-21A3-479E-A7DF-D6CF4B2ADBF3}) (Version: 2.2.0.133 - Advanced Micro Devices, Inc.) Hidden
+AMD I2C Driver (HKLM-x32\...\{B31D92D9-2914-46B0-9738-F668A563DE73}) (Version: 1.2.0.126 - Advanced Micro Devices, Inc.) Hidden
+AMD Interface Driver (HKLM-x32\...\{6118E908-9B3B-4258-B7C2-7DEEA5A65A85}) (Version: 2.0.0.21 - Advanced Micro Devices, Inc.) Hidden
+AMD PPM Provisioning File Driver (HKLM-x32\...\{3665A5DE-D07C-46D7-9207-713E8E9FEF32}) (Version: 8.0.0.48 - Advanced Micro Devices, Inc.) Hidden
+AMD PSP Driver (HKLM-x32\...\{988F14B8-79A8-475D-BAC7-83F96AD3D821}) (Version: 5.36.0.0 - Advanced Micro Devices, Inc.) Hidden
+AMD Ryzen Master (HKLM\...\{02247819-03CD-414E-AC8D-FD518BFBA445}) (Version: 2.14.2.3341 - Advanced Micro Devices, Inc.) Hidden
+AMD Ryzen Master (HKLM\...\AMD Ryzen Master) (Version: 2.14.2.3341 - Advanced Micro Devices, Inc.)
+AMD_Chipset_Drivers (HKLM-x32\...\{9e92542c-fa37-4c1f-9eba-41336bc79c02}) (Version: 7.01.08.129 - Advanced Micro Devices, Inc.) Hidden
+AniMeVisionFont_MB (HKLM\...\{93E38BA3-9745-4D67-91BC-F65F81523D0A}) (Version: 1.0.1 - ASUSTek Computer Inc.) Hidden
+ARMOURY CRATE Lite Service (HKLM\...\{EF3944FF-2501-4568-B15C-5701E726719E}) (Version: 5.9.14 - ASUS)
+ASUS AIOFan HAL (HKLM\...\{EAE80DED-1A39-41C5-9F60-87CC947F6454}) (Version: 1.4.6.0 - ASUSTeK COMPUTER INC.) Hidden
+ASUS AIOFan HAL (HKLM-x32\...\{ec89ca82-ee79-4e81-b2de-dc9328a482f2}) (Version: 1.4.6.0 - ASUSTeK COMPUTER INC.) Hidden
+ASUS Ambient HAL (HKLM\...\{127BAA1F-BF99-457D-92AD-DCCD7698B294}) (Version: 4.2.0.0 - ASUSTeK COMPUTER INC.) Hidden
+ASUS Ambient HAL (HKLM-x32\...\{984fc5fa-e6ab-4cfa-880b-81b5db4f8b4b}) (Version: 4.2.0.0 - ASUSTeK COMPUTER INC.) Hidden
+ASUS AURA Extension Card HAL (HKLM\...\{237E1CAC-1708-4940-AC34-DF15C079AB70}) (Version: 1.1.0.20 - ASUSTeK COMPUTER INC.) Hidden
+ASUS AURA Extension Card HAL (HKLM-x32\...\{49c4358d-054e-4cf1-9ec1-dca3487f304a}) (Version: 1.1.0.20 - ASUSTeK COMPUTER INC.) Hidden
+ASUS AURA Motherboard HAL (HKLM\...\{359B9A9D-A289-4962-BCE2-13EBFD50D532}) (Version: 1.5.0.2 - ASUSTeK COMPUTER INC.) Hidden
+ASUS AURA Motherboard HAL (HKLM-x32\...\{00aac91e-7198-484b-b29d-1c9990d843ae}) (Version: 1.5.0.2 - ASUSTeK COMPUTER INC.) Hidden
+ASUS Aura SDK (HKLM\...\{CF8E6E00-9C03-4440-81C0-21FACB921A6B}) (Version: 3.04.46 - ASUSTek COMPUTER INC.) Hidden
+ASUS AURA VGA Component (HKLM\...\{71BB96A6-EAC4-45AE-A17D-D3ED43FF1D14}) (Version: 0.0.7.5 - ASUSTek COMPUTER INC. ) Hidden
+ASUS AURA VGA Component (HKLM-x32\...\{552827a8-c98a-4c17-98c3-bc30edebf29d}) (Version: 0.0.7.5 - ASUSTek COMPUTER INC. ) Hidden
+ASUS Framework Service (HKLM-x32\...\{339A6383-7862-46DA-8A9D-E84180EF9424}) (Version: 4.2.0.4 - ASUSTeK Computer Inc.)
+ASUS Motherboard (HKLM-x32\...\{93795eb8-bd86-4d4d-ab27-ff80f9467b37}) (Version: 4.05.06 - ASUSTek Computer Inc.)
+ASUS Update Helper (HKLM-x32\...\{A92DAB39-4E2C-4304-9AB6-BC44E68B55E2}) (Version: 1.3.107.129 - ASUSTeK Computer Inc.) Hidden
+Audacity 3.7.1 (HKLM\...\Audacity_is1) (Version: 3.7.1 - Audacity Team)
+AURA DRAM Component (HKLM\...\{86D4C8A2-DB22-4948-950D-28DD5145F91C}) (Version: 1.1.29 - ASUS) Hidden
+AURA DRAM Component (HKLM-x32\...\{f70a8a88-540d-485d-9aa8-001486fb050e}) (Version: 1.1.29 - ASUS) Hidden
+AURA lighting effect add-on (HKLM-x32\...\{1E2EA04B-FCA7-457E-B6F4-F33E1858E859}) (Version: 0.0.44 - ASUSTek COMPUTER INC.)
+AURA lighting effect add-on x64 (HKLM\...\{C5A4A164-4428-4931-B728-96EEF0FA3C44}) (Version: 0.0.44 - ASUSTek COMPUTER INC.)
+AURA Service (HKLM-x32\...\{56EEEF7D-0AE3-401A-898B-581719D005AE}) (Version: 3.07.54 - ASUSTeK Computer Inc.) Hidden
+AURA Service (HKLM-x32\...\{5a78a7d3-44e9-4462-8796-3746f1c62cb8}) (Version: 3.07.54 - ASUSTeK Computer Inc.)
+Bitdefender Agent (HKLM\...\Bitdefender Agent) (Version: 27.1.1.11 - Bitdefender)
+Bitdefender Antivirus Free (HKLM\...\Bitdefender) (Version: 27.0.47.241 - Bitdefender)
+CPUID CPU-Z 2.14 (HKLM\...\CPUID CPU-Z_is1) (Version: 2.14 - CPUID, Inc.)
+Discord (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Discord) (Version: 1.0.9180 - Discord Inc.)
+Display Driver Uninstaller (HKLM-x32\...\Display Driver Uninstaller) (Version: 18.0.9.3 - Wagnardsoft)
+Docker Desktop (HKLM\...\Docker Desktop) (Version: 4.37.1 - Docker Inc.)
+Elgato Stream Deck (HKLM\...\{607648A1-39BB-4DE5-BE82-83DD5D94A72F}) (Version: 6.8.1.21263 - Corsair Memory, Inc.)
+Elgato Wave Link (HKLM\...\{6297FF0A-2428-4478-897F-45CAE6E9DA57}) (Version: 2.0.4.3711 - Corsair Memory, Inc.)
+ENE RGB HAL (HKLM\...\{E050E98C-5524-4AFB-9E53-97700BEF2C02}) (Version: 1.1.57.0 - Ene Tech.) Hidden
+ENE RGB HAL (HKLM-x32\...\{aed74e04-f110-4d4d-bcfc-e8e9ad5fc0aa}) (Version: 1.1.57.0 - Ene Tech.) Hidden
+ENE_EHD_M2_HAL (HKLM\...\{37A48B7F-D4EA-4863-844E-A284E2AA3C5D}) (Version: 1.0.14.0 - ENE TECHNOLOGY INC.) Hidden
+ENE_EHD_M2_HAL (HKLM-x32\...\{c1d017c2-8846-4000-9254-5689eccd462e}) (Version: 1.0.14.0 - ENE TECHNOLOGY INC.) Hidden
+Epic Games Launcher (HKLM-x32\...\{C5C3EE71-4047-4144-946E-18D500510CB5}) (Version: 1.3.128.0 - Epic Games, Inc.)
+FabFilter Total Bundle (HKLM\...\FabFilter Total Bundle_is1) (Version: 2021.5 - FabFilter & Team V.R)
+FanControl (HKLM-x32\...\{141A88F8-31AC-49EA-B428-2BE8C19DED83}_is1) (Version: 215 - Remi Mercier Software Inc)
+Focusrite Audio Drivers 4.102.4.735 (HKLM\...\Focusrite Audio Drivers_is1) (Version: 4.102.4.735 - Focusrite Audio Engineering, Ltd.)
+Focusrite Control 3.11.0.1983 (HKLM\...\Focusrite Control_is1) (Version: 3.11.0.1983 - Focusrite Audio Engineering Ltd.)
+GameSDK Service (HKLM-x32\...\{021d69c3-d686-4a94-8fb5-fd1ee782fb14}) (Version: 1.0.5.0 - ASUSTek COMPUTER INC.)
+GameSDK Service (HKLM-x32\...\{7160DA8D-3F25-4F6E-ABC8-F693551D82FA}) (Version: 1.0.5.0 - ASUSTek COMPUTER INC.) Hidden
+GIMP 2.10.38-1 (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\GIMP-2_is1) (Version: 2.10.38 - The GIMP Team)
+HWiNFO® 64 (HKLM\...\HWiNFO® 64_is1) (Version: 8.20 - Martin Malik, REALiX s.r.o.)
+kiloHearts Toolbox Ultimate & Slate Digital bundle (HKLM\...\Toolbox Ultimate & Slate Digital_is1) (Version: 1.8.15 - kiloHearts & Team V.R)
+Kingston AURA DRAM Component (HKLM\...\{965CDF5F-901C-476F-B3A8-7396701B1129}) (Version: 1.1.39 - KINGSTON COMPONENTS INC.) Hidden
+Kingston AURA DRAM Component (HKLM-x32\...\{20c88a0d-98f7-40db-b062-3f319a507889}) (Version: 1.1.39 - KINGSTON COMPONENTS INC.) Hidden
+League of Legends (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Riot Game league_of_legends.live) (Version:  - Riot Games, Inc)
+Lightshot-5.5.0.7 (HKLM-x32\...\{30A5B3C9-2084-4063-A32A-628A98DE512B}_is1) (Version: 5.5.0.7 - Skillbrains)
+Malwarebytes version 5.2.7.167 (HKLM\...\{35065F43-4BB2-439A-BFF7-0F1014F2E0CD}_is1) (Version: 5.2.7.167 - Malwarebytes)
+Microsoft .NET Host - 6.0.16 (x64) (HKLM\...\{1D0AC7F1-2B34-44AF-91F6-88757D768DA7}) (Version: 48.67.58427 - Microsoft Corporation) Hidden
+Microsoft .NET Host - 8.0.12 (x64) (HKLM\...\{C4C6E39D-48AE-426C-960C-46ED3447DDEB}) (Version: 64.48.26165 - Microsoft Corporation) Hidden
+Microsoft .NET Host FX Resolver - 6.0.16 (x64) (HKLM\...\{B8537ACA-B210-4DF5-B928-E41CEB76723D}) (Version: 48.67.58427 - Microsoft Corporation) Hidden
+Microsoft .NET Host FX Resolver - 8.0.12 (x64) (HKLM\...\{C9C872D5-3CA9-4E0E-AF90-1B85325F9243}) (Version: 64.48.26165 - Microsoft Corporation) Hidden
+Microsoft .NET Runtime - 6.0.16 (x64) (HKLM\...\{C71E93D2-B8B4-4858-B2A1-4C967DBC1C5F}) (Version: 48.67.58427 - Microsoft Corporation) Hidden
+Microsoft .NET Runtime - 6.0.16 (x64) (HKLM-x32\...\{2a8d0f2b-911b-4b58-8252-46b29e7a4590}) (Version: 6.0.16.32323 - Microsoft Corporation)
+Microsoft .NET Runtime - 8.0.12 (x64) (HKLM\...\{1E606649-7E56-452F-8AC4-495C70D1E341}) (Version: 64.48.26165 - Microsoft Corporation) Hidden
+Microsoft Edge (HKLM-x32\...\Microsoft Edge) (Version: 133.0.3065.92 - Microsoft Corporation)
+Microsoft Edge WebView2 Runtime (HKLM-x32\...\Microsoft EdgeWebView) (Version: 133.0.3065.92 - Microsoft Corporation) Hidden
+Microsoft PC Manager (Beta) (HKLM-x32\...\MSPCManager) (Version: 3.8.10.0 - Microsoft Corporation)
+Microsoft Teams Meeting Add-in for Microsoft Office (HKLM\...\{A7AB73A3-CB10-4AA5-9D38-6AEFFBDE4C91}) (Version: 1.24.31301 - Microsoft)
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219 (HKLM\...\{1D8E6291-B0D5-35EC-8441-6616F567A0F7}) (Version: 10.0.40219 - Microsoft Corporation)
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219 (HKLM-x32\...\{F0C3E5D1-1ADE-321E-8167-68EF0DE699A5}) (Version: 10.0.40219 - Microsoft Corporation)
+Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 (HKLM-x32\...\{ca67548a-5ebe-413a-b50c-4b9ceb6d66c6}) (Version: 11.0.61030.0 - Microsoft Corporation)
+Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 (HKLM-x32\...\{33d1fd90-4274-48a1-9bc1-97e33d9c2d6f}) (Version: 11.0.61030.0 - Microsoft Corporation)
+Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61030 (HKLM\...\{37B8F9C7-03FB-3253-8781-2517C99D7C00}) (Version: 11.0.61030 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61030 (HKLM\...\{CF2BEA3C-26EA-32F8-AA9B-331F7E34BA97}) (Version: 11.0.61030 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61030 (HKLM-x32\...\{B175520C-86A2-35A7-8619-86DC379688B9}) (Version: 11.0.61030 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61030 (HKLM-x32\...\{BD95A8CD-1D9F-35AD-981A-3E7925026EBB}) (Version: 11.0.61030 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.40664 (HKLM-x32\...\{042d26ef-3dbe-4c25-95d3-4c1b11b235a7}) (Version: 12.0.40664.0 - Microsoft Corporation)
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.40664 (HKLM-x32\...\{9dff3540-fc85-4ed5-ac84-9e3c7fd8bece}) (Version: 12.0.40664.0 - Microsoft Corporation)
+Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664 (HKLM\...\{010792BA-551A-3AC0-A7EF-0FAB4156C382}) (Version: 12.0.40664 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664 (HKLM\...\{53CF6934-A98D-3D84-9146-FC4EDF3D5641}) (Version: 12.0.40664 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664 (HKLM-x32\...\{D401961D-3A20-3AC7-943B-6139D5BD490A}) (Version: 12.0.40664 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664 (HKLM-x32\...\{8122DAB1-ED4D-3676-BB0A-CA368196543E}) (Version: 12.0.40664 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.42.34438 (HKLM-x32\...\{b49c10dd-4d54-45f8-ad13-fa25704456a4}) (Version: 14.42.34438.0 - Microsoft Corporation)
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.42.34438 (HKLM-x32\...\{ba10fda9-f731-441f-a999-000bbb7ceec2}) (Version: 14.42.34438.0 - Microsoft Corporation)
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.42.34438 (HKLM\...\{E528AD94-12D7-42C4-91A3-908BE28E9BD2}) (Version: 14.42.34438 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.42.34438 (HKLM\...\{2E15F519-4FDA-4834-B4EE-7EFCE7D8D4EE}) (Version: 14.42.34438 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.42.34438 (HKLM-x32\...\{A5592FEF-F948-4BA6-A066-8BBFC2DC7EE1}) (Version: 14.42.34438 - Microsoft Corporation) Hidden
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.42.34438 (HKLM-x32\...\{5D0C4511-3CA1-4FF8-A4BA-C0E1957ABEEA}) (Version: 14.42.34438 - Microsoft Corporation) Hidden
+Microsoft Visual Studio Code (User) (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\{771FD6B0-FA20-440A-A002-3B3BAC16DC50}_is1) (Version: 1.96.4 - Microsoft Corporation)
+Microsoft Windows Desktop Runtime - 8.0.12 (x64) (HKLM\...\{71CD19D6-C448-4B5D-9A38-018741753290}) (Version: 64.48.26178 - Microsoft Corporation) Hidden
+Microsoft Windows Desktop Runtime - 8.0.12 (x64) (HKLM-x32\...\{aafaa0cc-b975-4ffa-ba33-8690e64683c4}) (Version: 8.0.12.34404 - Microsoft Corporation)
+MSI Afterburner 4.6.6 Beta 5 (HKLM-x32\...\Afterburner) (Version: 4.6.6 Beta 5 - MSI Co., LTD)
+Notepad++ (64-bit x64) (HKLM\...\Notepad++) (Version: 8.7.6 - Notepad++ Team)
+NVIDIA Driver for HD-lyd 1.4.3.2 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_HDAudio.Driver) (Version: 1.4.3.2 - NVIDIA Corporation)
+NVIDIA FrameView SDK 1.5.10819.35301613 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_FrameViewSdk) (Version: 1.5.10819.35301613 - NVIDIA Corporation)
+NVIDIA Grafikkdriver 572.47 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.Driver) (Version: 572.47 - NVIDIA Corporation)
+NVIDIA PhysX systemprogramvare 9.23.1019 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.PhysX) (Version: 9.23.1019 - NVIDIA Corporation)
+NVIDIA USBC Driver 1.52.831.832 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_USBC) (Version: 1.52.831.832 - NVIDIA Corporation)
+NVIDIA-appen 11.0.2.337 (HKLM\...\{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}_Display.NvApp) (Version: 11.0.2.337 - NVIDIA Corporation)
+OBS Studio (HKLM-x32\...\OBS Studio) (Version: 31.0.1 - OBS Project)
+Ollama version 0.5.7 (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\{44E83376-CE68-45EB-8FC1-393500EB558C}_is1) (Version: 0.5.7 - Ollama)
+Open TV (HKLM\...\{3308DCBC-E026-40F1-8CC8-E1DE21EA8A36}) (Version: 1.4.1 - fredol)
+Overwolf (HKLM-x32\...\Overwolf) (Version: 0.267.1.1 - Overwolf Ltd.)
+Patriot Viper M2 SSD RGB (HKLM\...\{8B4C0A3D-C135-4E1F-98D8-3926494B4D61}) (Version: 1.1.0.3 - Patriot Memory) Hidden
+Patriot Viper M2 SSD RGB (HKLM-x32\...\{6e0eff60-c502-43bb-8f56-360ca07e73d9}) (Version: 1.1.0.3 - Patriot Memory) Hidden
+PowerToys (Preview) (HKLM\...\{2A63E377-367A-4800-958B-7EAB646DD197}) (Version: 0.88.0 - Microsoft Corporation) Hidden
+PowerToys (Preview) x64 (HKLM-x32\...\{13e7e6e6-a464-4493-be5a-46f8a3b9a9f2}) (Version: 0.88.0 - Microsoft Corporation)
+Promontory_GPIO Driver (HKLM-x32\...\{B5512BCC-F4CD-4159-86A4-B2AD7D38FFA9}) (Version: 3.0.3.0 - Advanced Micro Devices, Inc.) Hidden
+Razer Chroma (HKLM-x32\...\Razer Chroma) (Version: 4.0.433 - Razer Inc.)
+Realtek Audio Driver (HKLM-x32\...\{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}) (Version: 6.0.9754.1 - Realtek Semiconductor Corp.)
+Realtek Ethernet Controller Driver (HKLM-x32\...\{8833FFB6-5B0C-4764-81AA-06DFEED9A476}) (Version: 1125.21.903.2024 - Realtek)
+RetroArch (HKLM-x32\...\RetroArch) (Version: 1.20.0.0 - Libretro)
+Riot Client  (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Riot Game Riot_Client.) (Version:  - Riot Games, Inc)
+Riot Vanguard (HKLM\...\Riot Vanguard) (Version:  - Riot Games, Inc.)
+ROG FAN XPERT 4 (HKLM-x32\...\{2dfe216d-3481-4684-ad4d-2566bd7cfe4f}) (Version: 4.02.04 - ASUSTek Computer Inc.)
+ROG Live Service (HKLM\...\{2D87BFB6-C184-4A59-9BBE-3E20CE797631}) (Version: 2.4.26.0 - ASUSTek COMPUTER INC.)
+ROGFontInstaller (HKLM\...\{605108C1-153E-43D8-8A67-7CE326B00ECA}) (Version: 1.0.0 - ASUS)
+Spotify (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Spotify) (Version: 1.2.58.498.g6afe77b7 - Spotify AB)
+Steam (HKLM-x32\...\Steam) (Version: 2.10.91.91 - Valve Corporation)
+Surfshark (HKLM\...\{29A0E76D-BF81-4851-A50F-4316FD1FF0D8}) (Version: 5.12.2.999 - Surfshark) Hidden
+Surfshark (HKLM\...\Surfshark 5.12.2.999) (Version: 5.12.2.999 - Surfshark)
+Tailscale (HKLM\...\{B79D11C0-44DD-57F7-A32D-661FCF28188D}) (Version: 1.80.0 - Tailscale Inc.)
+TeamSpeak 3 Client (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\TeamSpeak 3 Client) (Version: 3.6.2 - TeamSpeak Systems GmbH)
+TeamViewer (HKLM\...\{F7248B8F-2002-444F-86A5-B877DB701321}) (Version: 15.62.4.0 - TeamViewer)
+Ubisoft Connect (HKLM-x32\...\Uplay) (Version: 161.1.11646 - Ubisoft)
+UniGetUI (HKLM-x32\...\{889610CC-4337-4BDB-AC3B-4F21806C0BDE}_is1) (Version: 3.1.5 - Martí Climent)
+Vivaldi (HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\Vivaldi) (Version: 7.1.3570.58 - Vivaldi Technologies AS.)
+VLC media player (HKLM\...\VLC media player) (Version: 3.0.21 - VideoLAN)
+WD_BLACK AN1500 (HKLM\...\{085E2365-0A70-4230-B664-02D5E4FE7E9C}) (Version: 1.0.14.0 - ENE TECHNOLOGY INC.) Hidden
+WD_BLACK AN1500 (HKLM-x32\...\{e42c5874-37b0-4977-9e8d-70bf006e1f76}) (Version: 1.0.14.0 - ENE TECHNOLOGY INC.) Hidden
+Windows Subsystem for Linux (HKLM\...\{9123DBDC-D242-4A68-9E97-841E2A788E7C}) (Version: 2.3.26.0 - Microsoft Corporation) Hidden
+WinRAR 7.01 (64-bit) (HKLM\...\WinRAR archiver) (Version: 7.01.0 - win.rar GmbH)
+WizTree v4.23 (HKLM\...\WizTree_is1) (Version: 4.23 - Antibody Software)
+
+Packages:
+=========
+Armoury Crate -> C:\Program Files\ASUS\AacAmbientHal [2025-02-23] (Sparse Package)
+ARMOURY CRATE -> C:\Program Files\WindowsApps\B9ECED6F.ArmouryCrate_5.9.14.0_x64__qmba6cd70vzyy [2025-02-23] (ASUSTeK COMPUTER INC.)
+Bitdefender CL Contextual Menu -> C:\Program Files\Bitdefender\Bitdefender Security App [2025-03-06] (Bitdefender)
+DTS Audio Processing -> C:\Program Files\WindowsApps\DTSInc.DTSAudioProcessing_1.10.15.0_x64__t5j2fzbtdg37r [2025-02-20] (DTS, Inc.)
+Notepad++ -> C:\Program Files\Notepad++\contextMenu [2025-01-30] (Notepad++)
+NVIDIA Control Panel -> C:\Program Files\WindowsApps\NVIDIACorp.NVIDIAControlPanel_8.1.967.0_x64__56jybvy8sckqj [2025-02-19] (NVIDIA Corp.)
+PowerToys FileLocksmith Context Menu -> C:\Program Files\PowerToys\WinUI3Apps [2025-02-06] (Microsoft)
+PowerToys ImageResizer Context Menu -> C:\Program Files\PowerToys [2025-02-06] (Microsoft)
+PowerToys PowerRename Context Menu -> C:\Program Files\PowerToys\WinUI3Apps [2025-02-06] (Microsoft)
+Realtek Audio Control -> C:\Program Files\WindowsApps\RealtekSemiconductorCorp.RealtekAudioControl_1.51.352.0_x64__dt26b99r8h8gj [2025-02-20] (Realtek Semiconductor Corp)
+TranslucentTB -> C:\Program Files\WindowsApps\28017CharlesMilette.TranslucentTB_2024.3.0.0_x64__v826wp6bftszj [2025-01-30] (Charles Milette) [Startup Task]
+WinRAR -> C:\Program Files\WinRAR [2025-01-30] (win.rar GmbH)
+
+==================== Custom CLSID (Whitelisted): ==============
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{10144713-1526-46C9-88DA-1FB52807A9FF}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.SvgThumbnailProviderCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{19A6E644-14E6-4A60-B8D7-DD20610A871D}\InprocServer32 -> C:\Users\Thomas\AppData\Local\Microsoft\TeamsMeetingAdd-in\1.24.31301\x64\Microsoft.Teams.AddinLoader.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{19b9c7f1-8163-ccfc-cdeb-6aa8ad2ee2e1}\localserver32 -> C:\Program Files (x86)\FanControl\FanControl.EXE (Rémi Mercier) [File not signed]
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{2B236A07-670A-47DB-A42F-65163333105E}\localserver32 -> c:\program files\unigetui\unigetui.exe (Marti Climent Lopez -> )
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{498E5814-B69D-4004-A05E-BE58A089DD7C}\localserver32 -> C:\Users\Thomas\AppData\Local\Vivaldi\Application\7.1.3570.58\notification_helper.exe (Vivaldi Technologies AS -> Vivaldi Technologies AS)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{5ea9a442-5352-ed6e-d37f-9d511e7e2caa}\localserver32 -> C:\Program Files\PowerToys\PowerToys.PowerLauncher.exe (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{60789D87-9C3C-44AF-B18C-3DE2C2820ED3}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.MarkdownPreviewHandlerCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{729B72CD-B72E-4FE9-BCBF-E954B33FE699}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.QoiPreviewHandlerCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{77257004-6F25-4521-B602-50ECC6EC62A6}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.StlThumbnailProviderCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32 ->  => No File
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{A0257634-8812-4CE8-AF11-FA69ACAEAFAE}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.GcodePreviewHandlerCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{AD856B15-D25E-4008-AFB7-AFAA55586188}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.QoiThumbnailProviderCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{D8034CFA-F34B-41FE-AD45-62FCBB52A6DA}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.MonacoPreviewHandlerCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{F2847CBE-CD03-4C83-A359-1A8052C1B9D5}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.GcodeThumbnailProviderCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+CustomCLSID: HKU\S-1-5-21-1380129379-2595566839-1166586904-1000_Classes\CLSID\{FCDD4EED-41AA-492F-8A84-31A1546226E0}\InprocServer32 -> C:\Program Files\PowerToys\PowerToys.SvgPreviewHandlerCpp.dll (Microsoft Corporation -> Microsoft Corporation)
+ShellIconOverlayIdentifiers: [ OneDrive1] -> {BBACC218-34EA-4666-9D7A-C78F2274A524} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive2] -> {5AB7172C-9C11-405C-8DD5-AF20F3606282} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive3] -> {A78ED123-AB77-406B-9962-2A5D9D2F7F30} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive4] -> {F241C880-6982-4CE5-8CF7-7085BA96DA5A} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive5] -> {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive6] -> {9AA2F32D-362A-42D9-9328-24A483E2CCC3} =>  -> No File
+ShellIconOverlayIdentifiers: [ OneDrive7] -> {C5FF006E-2AE9-408C-B85B-2DFDD5449D9C} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive1] -> {BBACC218-34EA-4666-9D7A-C78F2274A524} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive2] -> {5AB7172C-9C11-405C-8DD5-AF20F3606282} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive3] -> {A78ED123-AB77-406B-9962-2A5D9D2F7F30} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive4] -> {F241C880-6982-4CE5-8CF7-7085BA96DA5A} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive5] -> {A0396A93-DC06-4AEF-BEE9-95FFCCAEF20E} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive6] -> {9AA2F32D-362A-42D9-9328-24A483E2CCC3} =>  -> No File
+ShellIconOverlayIdentifiers-x32: [ OneDrive7] -> {C5FF006E-2AE9-408C-B85B-2DFDD5449D9C} =>  -> No File
+ContextMenuHandlers1: [7-Zip] -> {23170F69-40C1-278A-1000-000100020000} => C:\Program Files\7-Zip\7-zip.dll [2024-11-29] (Igor Pavlov) [File not signed]
+ContextMenuHandlers2: [FileLocksmithExt] -> {84D68575-E186-46AD-B0CB-BAEB45EE29C0} => C:\Program Files\PowerToys\WinUI3Apps\PowerToys.FileLocksmithExt.dll [2025-01-24] (Microsoft Corporation -> Microsoft Corporation)
+ContextMenuHandlers3: [FileLocksmithExt] -> {84D68575-E186-46AD-B0CB-BAEB45EE29C0} => C:\Program Files\PowerToys\WinUI3Apps\PowerToys.FileLocksmithExt.dll [2025-01-24] (Microsoft Corporation -> Microsoft Corporation)
+ContextMenuHandlers3: [MBAMShlExt] -> {57CE581A-0CB6-4266-9CA0-19364C90A0B3} => C:\Program Files\Malwarebytes\Anti-Malware\mbshlext.dll [2025-03-06] (Malwarebytes Inc. -> Malwarebytes)
+ContextMenuHandlers3: [PowerRenameExt] -> {0440049F-D1DC-4E46-B27B-98393D79486B} => C:\Program Files\PowerToys\WinUI3Apps\PowerToys.PowerRenameExt.dll [2025-01-24] (Microsoft Corporation -> Microsoft Corporation)
+ContextMenuHandlers4: [7-Zip] -> {23170F69-40C1-278A-1000-000100020000} => C:\Program Files\7-Zip\7-zip.dll [2024-11-29] (Igor Pavlov) [File not signed]
+ContextMenuHandlers5: [NewPlusShellExtensionWin10] -> {FF90D477-E32A-4BE8-8CC5-A502A97F5401} => C:\Program Files\PowerToys\WinUI3Apps\PowerToys.NewPlus.ShellExtension.win10.dll [2025-01-24] (Microsoft Corporation -> Microsoft Corporation)
+ContextMenuHandlers5: [NvCplDesktopContext] -> {3D1975AF-48C6-4f8e-A182-BE0E08FA86A9} => C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_521f36110c1a672d\nvshext.dll [2025-02-19] (NVIDIA Corporation -> NVIDIA Corporation)
+ContextMenuHandlers5: [PowerRenameExt] -> {0440049F-D1DC-4E46-B27B-98393D79486B} => C:\Program Files\PowerToys\WinUI3Apps\PowerToys.PowerRenameExt.dll [2025-01-24] (Microsoft Corporation -> Microsoft Corporation)
+ContextMenuHandlers6: [7-Zip] -> {23170F69-40C1-278A-1000-000100020000} => C:\Program Files\7-Zip\7-zip.dll [2024-11-29] (Igor Pavlov) [File not signed]
+ContextMenuHandlers6: [MBAMShlExt] -> {57CE581A-0CB6-4266-9CA0-19364C90A0B3} => C:\Program Files\Malwarebytes\Anti-Malware\mbshlext.dll [2025-03-06] (Malwarebytes Inc. -> Malwarebytes)
+
+==================== Codecs (Whitelisted) ====================
+
+==================== Shortcuts & WMI ========================
+
+==================== Loaded Modules (Whitelisted) =============
+
+2025-01-30 15:12 - 2025-02-18 20:43 - 000004608 _____ () [File not signed] [File is in use] C:\Program Files (x86)\FanControl\FanControl.Plugins.dll
+2025-02-23 03:42 - 2024-07-03 15:49 - 000346112 _____ () [File not signed] \\?\C:\Program Files (x86)\ASUS\ArmouryDevice\resources\app.asar.unpacked\node_modules\@img\sharp-win32-ia32\lib\sharp-win32-ia32.node
+2025-02-23 03:42 - 2024-08-13 14:58 - 000449536 _____ () [File not signed] \\?\C:\Program Files (x86)\ASUS\ArmouryDevice\resources\app.asar.unpacked\node_modules\ac_node_addon\build\Release\ac_node_addon.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000244224 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\06cc2949-00f4-443e-ab2f-c5b50ccd78c8.tmp.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000229376 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\3e72892a-8d89-4167-a757-f31dadd67626.tmp.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000270848 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\4ee7e290-f78c-46eb-8eb6-a668e802114a.tmp.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000225280 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\4f15cab7-5b31-4006-832c-01f6be43c149.tmp.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000367104 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\72f4ec91-940c-498c-b217-f0c1b0e5087b.tmp.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000242688 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\8850a2c6-232e-43fb-9c55-aec33daffcb4.tmp.node
+2025-03-06 15:06 - 2025-03-06 15:06 - 000699392 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Local\Temp\f335fe0f-4453-4079-9556-c35bd4d668bd.tmp.node
+2024-07-08 20:24 - 2024-07-08 20:24 - 000287232 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.elgato.volume-controller.sdPlugin\bin\addons\winAudioDeviceService.node
+2024-07-08 20:24 - 2024-07-08 20:24 - 019437056 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.elgato.volume-controller.sdPlugin\bin\node_modules\@img\sharp-win32-x64\lib\libvips-42.dll
+2024-07-08 20:24 - 2024-07-08 20:24 - 000369152 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.elgato.volume-controller.sdPlugin\bin\node_modules\@img\sharp-win32-x64\lib\libvips-cpp.dll
+2024-07-08 20:24 - 2024-07-08 20:24 - 000418304 _____ () [File not signed] \\?\C:\Users\Thomas\AppData\Roaming\Elgato\StreamDeck\Plugins\com.elgato.volume-controller.sdPlugin\bin\node_modules\@img\sharp-win32-x64\lib\sharp-win32-x64.node
+2025-01-30 15:12 - 2024-11-09 13:00 - 000079872 _____ () [File not signed] C:\Program Files (x86)\FanControl\ADLXBindings.DLL
+2025-01-27 09:24 - 2025-01-27 09:24 - 000310272 _____ () [File not signed] C:\Program Files\Elgato\WaveLink\Firmware\DriverSetup\W10_x64\ElgatoUsbAudioapi_x64.dll
+2025-01-27 09:24 - 2025-01-27 09:24 - 000265216 _____ () [File not signed] c:\program files\elgato\wavelink\firmware\driversetup\w10_x64\elgatousbaudioasio_x64.dll
+2025-01-28 01:42 - 2025-01-28 01:42 - 002692608 _____ () [File not signed] C:\Program Files\Razer\RazerAppEngine\app-4.0.433\ffmpeg.dll
+2025-01-28 01:42 - 2025-01-28 01:42 - 000480768 _____ () [File not signed] C:\Program Files\Razer\RazerAppEngine\app-4.0.433\libegl.dll
+2025-01-28 01:42 - 2025-01-28 01:42 - 007960064 _____ () [File not signed] C:\Program Files\Razer\RazerAppEngine\app-4.0.433\libglesv2.dll
+2025-01-28 01:42 - 2025-01-28 01:42 - 005372928 _____ () [File not signed] C:\Program Files\Razer\RazerAppEngine\app-4.0.433\vk_swiftshader.dll
+2023-05-19 21:29 - 2023-05-19 21:29 - 001641984 _____ () [File not signed] C:\Program Files\Surfshark\e_sqlite3.DLL
+2025-01-30 15:12 - 2024-11-09 13:00 - 000206336 _____ (ADLXWrapper) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\ADLXWrapper.dll
+2025-01-30 15:12 - 2024-12-17 14:19 - 000373760 _____ (Autofac) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\Autofac.dll
+2019-08-15 14:05 - 2019-08-15 14:05 - 000230912 _____ (Autofac) [File not signed] [File is in use] C:\Program Files\Surfshark\Autofac.dll
+2019-10-07 16:25 - 2019-10-07 16:25 - 000014336 _____ (Autofac) [File not signed] [File is in use] C:\Program Files\Surfshark\Autofac.Extensions.DependencyInjection.dll
+2020-12-06 03:39 - 2020-12-06 03:39 - 000194048 _____ (Chris Patterson;Dru Sellers;Travis Smith) [File not signed] [File is in use] C:\Program Files\Surfshark\Topshelf.dll
+2025-01-30 16:05 - 2020-12-08 07:42 - 002845184 _____ (FabFilter) [File not signed] C:\Program Files\Common Files\VST3\FabFilter\FabFilter Pro-Q 3.vst3
+2025-01-30 15:12 - 2020-12-09 01:59 - 000467968 _____ (falahati.net) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\NvAPIWrapper.dll
+2025-01-30 15:12 - 2025-02-18 20:43 - 000027136 _____ (FanControl.IPC) [File not signed] C:\Program Files (x86)\FanControl\FanControl.IPC.dll
+2025-01-30 15:12 - 2025-02-18 20:43 - 000144896 _____ (FanControl.Library) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\FanControl.Library.dll
+2025-01-30 15:12 - 2025-02-18 20:46 - 000726016 _____ (FanControl.Resources) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\FanControl.Resources.dll
+2025-02-21 16:35 - 2024-12-03 21:40 - 005378048 _____ (FFmpeg Project) [File not signed] C:\Program Files (x86)\Steam\libavcodec-61.dll
+2025-02-21 16:35 - 2024-12-03 21:40 - 000875008 _____ (FFmpeg Project) [File not signed] C:\Program Files (x86)\Steam\libavfilter-10.dll
+2025-02-21 16:35 - 2024-12-03 21:40 - 001674240 _____ (FFmpeg Project) [File not signed] C:\Program Files (x86)\Steam\libavformat-61.dll
+2025-02-21 16:35 - 2024-12-03 21:40 - 001640960 _____ (FFmpeg Project) [File not signed] C:\Program Files (x86)\Steam\libavutil-59.dll
+2025-02-21 16:35 - 2024-12-03 21:40 - 000630272 _____ (FFmpeg Project) [File not signed] C:\Program Files (x86)\Steam\libswresample-5.dll
+2025-02-21 16:35 - 2024-12-03 21:40 - 001092608 _____ (FFmpeg Project) [File not signed] C:\Program Files (x86)\Steam\libswscale-8.dll
+2025-01-30 15:12 - 2024-05-01 08:09 - 000334848 _____ (GitHub Community) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\Microsoft.Win32.TaskScheduler.dll
+2025-01-30 15:12 - 2023-12-29 12:31 - 000076800 _____ (Google) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\GrpcDotNetNamedPipes.dll
+2025-03-06 15:05 - 2025-03-06 15:05 - 000121293 _____ (Highresolution Enterprises) [File not signed] C:\Users\Thomas\AppData\Local\Temp\tmpw4hfmt.dll
+2023-02-22 19:48 - 2023-02-22 19:48 - 000006656 _____ (Jimmy Bogard) [File not signed] [File is in use] C:\Program Files\Surfshark\MediatR.Contracts.dll
+2023-11-17 17:23 - 2023-11-17 17:23 - 000070144 _____ (Jimmy Bogard) [File not signed] [File is in use] C:\Program Files\Surfshark\MediatR.dll
+2025-01-30 16:01 - 2021-03-11 21:51 - 033445376 _____ (Kilohearts AB) [File not signed] C:\ProgramData\Kilohearts\HeartCore.core_64
+2025-01-30 16:01 - 2021-01-30 17:07 - 000260096 _____ (Kilohearts) [File not signed] C:\Program Files\Common Files\VST3\kiloHearts\kHs Gain.vst3
+2025-01-30 16:01 - 2021-01-30 17:07 - 000260096 _____ (Kilohearts) [File not signed] C:\Program Files\Common Files\VST3\kiloHearts\kHs Gate.vst3
+2025-01-30 16:01 - 2021-01-30 17:07 - 000260096 _____ (Kilohearts) [File not signed] C:\Program Files\Common Files\VST3\kiloHearts\kHs Limiter.vst3
+2025-01-30 15:12 - 2025-02-18 20:43 - 000721920 _____ (LibreHardwareMonitorLib) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\LibreHardwareMonitorLib.dll
+2024-07-05 17:31 - 2024-07-05 17:31 - 000510464 _____ (Maurício David) [File not signed] [File is in use] C:\Program Files\Surfshark\LiteDB.dll
+2023-02-04 20:02 - 2023-02-04 20:02 - 000060416 _____ (Michael Altmann) [File not signed] [File is in use] C:\Program Files\Surfshark\FluentResults.dll
+2025-01-30 15:12 - 2025-01-03 02:40 - 000316416 _____ (Mulholland Software/James Willock) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\MaterialDesignColors.dll
+2025-01-30 15:12 - 2025-01-03 02:41 - 009940992 _____ (Mulholland Software/James Willock) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\MaterialDesignThemes.Wpf.dll
+2023-08-05 12:08 - 2023-08-05 12:08 - 000925184 _____ (NLog) [File not signed] [File is in use] C:\Program Files\Surfshark\NLog.dll
+2022-06-04 22:27 - 2022-06-04 22:27 - 000055296 _____ (NLog) [File not signed] [File is in use] C:\Program Files\Surfshark\NLog.Extensions.Logging.dll
+2022-06-04 23:01 - 2022-06-04 23:01 - 000051712 _____ (NLog) [File not signed] [File is in use] C:\Program Files\Surfshark\NLog.Web.AspNetCore.dll
+2025-02-20 00:02 - 2025-02-28 00:40 - 000000000 ____L (NVIDIA Corporation) [symlink -> C:\Program Files\NVIDIA Corporation\NVIDIA app\MessageBus\NvMessageBusBroadcast.dll] C:\Program Files\NVIDIA Corporation\NvContainer\plugins\LocalSystem\NvMessageBusBroadcast.dll
+2025-01-30 15:12 - 2025-02-18 20:47 - 001452032 _____ (Rémi Mercier) [File not signed] [File is in use] C:\Program Files (x86)\FanControl\FanControl.dll
+2023-05-19 21:36 - 2023-05-19 21:36 - 000005120 _____ (SourceGear) [File not signed] [File is in use] C:\Program Files\Surfshark\SQLitePCLRaw.batteries_v2.dll
+2023-05-19 21:34 - 2023-05-19 21:34 - 000050688 _____ (SourceGear) [File not signed] [File is in use] C:\Program Files\Surfshark\SQLitePCLRaw.core.dll
+2023-05-19 21:34 - 2023-05-19 21:34 - 000036352 _____ (SourceGear) [File not signed] [File is in use] C:\Program Files\Surfshark\SQLitePCLRaw.provider.e_sqlite3.dll
+
+==================== Alternate Data Streams (Whitelisted) ========
+
+(If an entry is included in the fixlist, only the ADS will be removed.)
+
+AlternateDataStreams: C:\Users\Thomas\Downloads\FRST64.exe:BDU [0]
+
+==================== Safe Mode (Whitelisted) ==================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The "AlternateShell" will be restored.)
+
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Minimal\MBAMService => ""="Service"
+HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\Network\MBAMService => ""="Service"
+
+==================== Association (Whitelisted) =================
+
+(If an entry is included in the fixlist, the registry item will be restored to default or removed.)
+
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\Software\Classes\regfile:  <==== ATTENTION
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\Software\Classes\.reg:  =>  <==== ATTENTION
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\Software\Classes\.bat:  =>  <==== ATTENTION
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\Software\Classes\.cmd:  =>  <==== ATTENTION
+
+==================== Internet Explorer (Whitelisted) =============
+
+HKLM\Software\Microsoft\Internet Explorer\Main,Start Page = about:blank
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main,Start Page = about:blank
+HKLM\Software\Microsoft\Internet Explorer\Main,Search Page = 
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main,Search Page = 
+HKLM\Software\Microsoft\Internet Explorer\Main,Default_Page_URL = 
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main,Default_Page_URL = 
+HKLM\Software\Microsoft\Internet Explorer\Main,Default_Search_URL = 
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main,Default_Search_URL = 
+HKLM\Software\Microsoft\Internet Explorer\Main,Local Page = 
+HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Main,Local Page = 
+
+==================== Hosts content: =========================
+
+(If needed Hosts: directive could be included in the fixlist to reset Hosts.)
+
+2025-01-30 23:28 - 2025-03-06 13:52 - 000001062 _____ C:\WINDOWS\system32\drivers\etc\hosts
+127.0.0.1 kubernetes.docker.internal
+
+2025-01-30 22:03 - 2025-02-20 14:03 - 000000441 _____ C:\WINDOWS\system32\drivers\etc\hosts.ics
+172.19.64.1 DESKTOP-SVBOKH0.mshome.net # 2030 2 2 19 13 3 57 259
+
+==================== Other Areas ===========================
+
+(Currently there is no automatic fix for this section.)
+
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\Control Panel\Desktop\\Wallpaper -> C:\WINDOWS\web\wallpaper\Windows\img0.jpg
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1002\Control Panel\Desktop\\Wallpaper -> C:\Windows\Web\Wallpaper\Windows\img0.jpg
+DNS Servers: 192.168.50.1
+HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System => (ConsentPromptBehaviorAdmin: 2) (ConsentPromptBehaviorUser: 3) (EnableLUA: 1)
+Windows Firewall is enabled.
+
+Network Binding:
+=============
+Ethernet: Realtek Gaming 2.5GbE Family Controller -> rt25cx21x64.sys
+Wi-Fi: Realtek 8852BE Wireless LAN WiFi 6 PCI-E NIC -> rtwlane601.sys
+Bluetooth-nettverkstilkobling: Bluetooth Device (Personal Area Network) -> bthpan.sys
+Tailscale: Tailscale Tunnel -> wintun.sys
+OpenVPN Data Channel Offload for Surfshark: OpenVPN Data Channel Offload -> ovpn-dco.sys
+
+vms_vsf: Hyper-V Virtual Switch Extension Filter
+ms_l1vhlwf: Nested Network Virtualization
+vms_vsp: Hyper-V Virtual Switch Extension Protocol
+
+==================== MSCONFIG/TASK MANAGER disabled items ==
+
+(If an entry is included in the fixlist, it will be removed.)
+
+HKLM\...\StartupApproved\StartupFolder: => "Tailscale.lnk"
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\StartupApproved\StartupFolder: => "Ollama.lnk"
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\StartupApproved\Run: => "MicrosoftEdgeAutoLaunch_ACDE7569BB2BA61E559D6A3A787F9FA6"
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\StartupApproved\Run: => "Overwolf"
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\StartupApproved\Run: => "Surfshark"
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\StartupApproved\Run: => "WingetUI"
+HKU\S-1-5-21-1380129379-2595566839-1166586904-1000\...\StartupApproved\Run: => "Docker Desktop"
+
+==================== FirewallRules (Whitelisted) ================
+
+(If an entry is included in the fixlist, it will be removed from the registry. The file will not be moved unless listed separately.)
+
+FirewallRules: [TCP Query User{C9A8E8E7-F1C2-4F1A-B133-A4F45B45461B}C:\users\thomas\appdata\roaming\spotify\spotify.exe] => (Allow) C:\users\thomas\appdata\roaming\spotify\spotify.exe (Spotify AB -> Spotify Ltd)
+FirewallRules: [UDP Query User{A3424D59-731C-41CA-9CE5-A09831217316}C:\users\thomas\appdata\roaming\spotify\spotify.exe] => (Allow) C:\users\thomas\appdata\roaming\spotify\spotify.exe (Spotify AB -> Spotify Ltd)
+
+==================== Restore Points =========================
+
+04-03-2025 19:57:22 Windows Update
+04-03-2025 19:57:22 Windows Update
+04-03-2025 19:57:24 Windows Update
+05-03-2025 22:54:50 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030
+06-03-2025 02:08:04 Installed ViGEm Bus Driver
+06-03-2025 02:38:35 Removed ViGEm Bus Driver
+06-03-2025 03:37:57 Installasjonsprogram for Windows-moduler
+06-03-2025 03:38:39 Installasjonsprogram for Windows-moduler
+06-03-2025 03:38:59 Installasjonsprogram for Windows-moduler
+
+==================== Faulty Device Manager Devices ============
+
+==================== Event log errors: ========================
+
+Application errors:
+==================
+
+System errors:
+=============
+Error: (03/06/2025 03:05:39 PM) (Source: Service Control Manager) (EventID: 7000) (User: )
+Description: Tjenesten l1vhlwf kan ikke starte på grunn av følgende feil: 
+En hypervisorfunksjon er ikke tilgjengelig for brukeren.
+
+Error: (03/06/2025 03:05:00 PM) (Source: Microsoft-Windows-DeviceAssociationService) (EventID: 3503) (User: NT-MYNDIGHET)
+Description: Tjenesten for enhetstilknytning oppdaget en feil under søk etter endepunkt.
+
+Error: (03/06/2025 02:46:54 PM) (Source: Service Control Manager) (EventID: 7034) (User: )
+Description: Tjenesten ASUS AURA SYNC lighting service avsluttet uventet. Det har den gjort 3 gang(er).
+
+Error: (03/06/2025 02:46:54 PM) (Source: Service Control Manager) (EventID: 7031) (User: )
+Description: Tjenesten Surfshark Service ble uventet avbrutt. Det har den blitt 1 gang(er). Følgende korrigerende handling blir utført om 0 millisekunder: Start tjenesten på nytt.
+
+Error: (03/06/2025 02:46:54 PM) (Source: Service Control Manager) (EventID: 7031) (User: )
+Description: Tjenesten Focusrite Control Server ble uventet avbrutt. Det har den blitt 2 gang(er). Følgende korrigerende handling blir utført om 10000 millisekunder: Start tjenesten på nytt.
+
+Error: (03/06/2025 02:46:54 PM) (Source: Service Control Manager) (EventID: 7031) (User: )
+Description: Tjenesten NVIDIA LocalSystem Container ble uventet avbrutt. Det har den blitt 1 gang(er). Følgende korrigerende handling blir utført om 6000 millisekunder: Start tjenesten på nytt.
+
+Error: (03/06/2025 02:46:54 PM) (Source: Service Control Manager) (EventID: 7034) (User: )
+Description: Tjenesten ARMOURY CRATE Service avsluttet uventet. Det har den gjort 3 gang(er).
+
+Error: (03/06/2025 02:46:54 PM) (Source: Service Control Manager) (EventID: 7031) (User: )
+Description: Tjenesten NVIDIA Display Container LS ble uventet avbrutt. Det har den blitt 1 gang(er). Følgende korrigerende handling blir utført om 6000 millisekunder: Start tjenesten på nytt.
+
+
+Windows Defender:
+================
+Date: 2025-03-06 14:09:04
+Description: 
+Microsoft Defender Antivirus scan has been stopped before completion.
+Scan Type: Antimalware
+Scan Parameters: Custom Scan
+
+Date: 2025-03-06 03:39:36
+Description: 
+Microsoft Defender antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Znyonm!rfn&threatid=2147933017&enterprise=0
+Name: Trojan:Win32/Znyonm!rfn
+Severity: Severe
+Category: Trojan
+Path: file:_C:\WINDOWS\putty.exe
+Detection Origin: Local machine
+Detection Type: Concrete
+Detection Source: User
+Process Name: Unknown
+Security intelligence Version: AV: 1.423.249.0, AS: 1.423.249.0, NIS: 1.423.249.0
+Engine Version: AM: 1.1.25010.7, NIS: 1.1.25010.7 
+
+Date: 2025-03-06 03:39:36
+Description: 
+Microsoft Defender antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.H!ml&threatid=2147814523&enterprise=0
+Name: Trojan:Win32/Wacatac.H!ml
+Severity: Severe
+Category: Trojan
+Path: file:_C:\Users\Thomas\AppData\Roaming\IsFixedSize\Item.exe; file:_C:\WINDOWS\System32\Tasks\Microsoft\Windows\IsFixedSize\Item->(UTF-16LE); regkey:_HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{9220C9B4-E4F5-4ECA-B89E-742BBA797B84}; regkey:_HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tree\Microsoft\Windows\IsFixedSize\Item; taskscheduler:_C:\WINDOWS\System32\Tasks\Microsoft\Windows\IsFixedSize\Item
+Detection Origin: Local machine
+Detection Type: FastPath
+Detection Source: User
+Process Name: Unknown
+Security intelligence Version: AV: 1.423.249.0, AS: 1.423.249.0, NIS: 1.423.249.0
+Engine Version: AM: 1.1.25010.7, NIS: 1.1.25010.7 
+
+Date: 2025-03-06 03:38:27
+Description: 
+Microsoft Defender antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+Name: Trojan:Win32/Wacatac.B!ml
+Severity: Severe
+Category: Trojan
+Path: file:_F:\lossless scaling.exe
+Detection Origin: Local machine
+Detection Type: FastPath
+Detection Source: Real-Time Protection
+Process Name: C:\Windows\explorer.exe
+Security intelligence Version: AV: 1.423.249.0, AS: 1.423.249.0, NIS: 1.423.249.0
+Engine Version: AM: 1.1.25010.7, NIS: 1.1.25010.7 
+
+Date: 2025-03-06 03:38:27
+Description: 
+Microsoft Defender antivirus has detected malware or other potentially unwanted software.
+For more information please see the following:
+https://go.microsoft.com/fwlink/?linkid=37020&name=Trojan:Win32/Wacatac.B!ml&threatid=2147735505&enterprise=0
+Name: Trojan:Win32/Wacatac.B!ml
+Severity: Severe
+Category: Trojan
+Path: file:_F:\lossless scaling.exe
+Detection Origin: Local machine
+Detection Type: FastPath
+Detection Source: Real-Time Protection
+Process Name: C:\Windows\explorer.exe
+Security intelligence Version: AV: 1.423.249.0, AS: 1.423.249.0, NIS: 1.423.249.0
+Engine Version: AM: 1.1.25010.7, NIS: 1.1.25010.7 
+﻿Event[0]
+
+Date: 2025-03-06 03:34:59
+Description: 
+Microsoft Defender antivirus has encountered an error trying to upload a suspicious file for further analysis.
+Filename: F:\LOSSLESS SCALING.EXE
+Sha256: 7947cd2d712c0851fdf4469659ad68500840617c323147caa2f51593ff3068b2
+Current security intelligence Version: AV: 1.423.249.0, AS: 1.423.249.0
+Current Engine Version: 1.1.25010.7
+Error code: 0x80508016
+ 
+
+CodeIntegrity:
+===============
+Date: 2025-03-06 15:06:20
+Description: 
+Code Integrity determined that a process (\Device\HarddiskVolume3\Users\Thomas\AppData\Local\Discord\app-1.0.9185\Discord.exe) attempted to load \Device\HarddiskVolume3\Program Files (x86)\Overwolf\0.267.1.1\OWClient.dll that did not meet the Microsoft signing level requirements. 
+
+Date: 2025-03-06 15:06:20
+Description: 
+Code Integrity determined that a process (\Device\HarddiskVolume3\Users\Thomas\AppData\Local\Discord\app-1.0.9185\Discord.exe) attempted to load \Device\HarddiskVolume3\Program Files (x86)\Overwolf\0.267.1.1\ow-graphics-vulkan.dll that did not meet the Microsoft signing level requirements. 
+
+Date: 2025-03-06 15:06:20
+Description: 
+Code Integrity determined that a process (\Device\HarddiskVolume3\Users\Thomas\AppData\Local\Discord\app-1.0.9185\Discord.exe) attempted to load \Device\HarddiskVolume3\ProgramData\obs-studio-hook\graphics-hook64.dll that did not meet the Microsoft signing level requirements. 
+
+Date: 2025-03-06 14:11:36
+Description: 
+Code Integrity determined that a process (\Device\HarddiskVolume3\Windows\System32\svchost.exe) attempted to load \Device\HarddiskVolume3\Program Files\Bitdefender\Bitdefender Security\bdamsi\dlls_267059357120000000\antimalware_provider64.dll that did not meet the Windows signing level requirements. 
+
+
+==================== Memory info =========================== 
+
+BIOS: American Megatrends Inc. 3208 02/10/2025
+Motherboard: ASUSTeK COMPUTER INC. TUF GAMING B650M-PLUS WIFI
+Processor: AMD Ryzen 7 9800X3D 8-Core Processor 
+Percentage of memory in use: 27%
+Total physical RAM: 63143.28 MB
+Available physical RAM: 45749.71 MB
+Total Virtual: 67111.28 MB
+Available Virtual: 41910.79 MB
+
+==================== Drives ================================
+
+Drive c: () (Fixed) (Total:3725.28 GB) (Free:3317.36 GB) (Model: KINGSTON SFYRD4000G) NTFS
+Drive d: (spel) (Fixed) (Total:894.24 GB) (Free:827.83 GB) (Model: KINGSTON SA400S37960G) NTFS
+Drive e: (nypc) (Fixed) (Total:894.24 GB) (Free:371.56 GB) (Model: KINGSTON SA400S37960G) NTFS
+
+\\?\Volume{6bd6adc9-91be-4ce9-a72e-39a76e8c3f26}\ () (Fixed) (Total:0.63 GB) (Free:0.1 GB) NTFS
+\\?\Volume{4447b5e6-1af6-44cc-a46d-a325704c6552}\ () (Fixed) (Total:0.09 GB) (Free:0.06 GB) FAT32
+
+==================== MBR & Partition Table ====================
+
+==================== End of Addition.txt =======================
